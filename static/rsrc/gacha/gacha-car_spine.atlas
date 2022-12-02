@@ -1,0 +1,69 @@
+
+gacha-car_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ClashChip
+  rotate: false
+  xy: 873, 380
+  size: 149, 125
+  orig: 700, 1200
+  offset: 274, 403
+  index: -1
+campingCar
+  rotate: false
+  xy: 2, 254
+  size: 378, 251
+  orig: 700, 1200
+  offset: 165, 185
+  index: -1
+egg
+  rotate: false
+  xy: 2, 2
+  size: 53, 65
+  orig: 700, 1200
+  offset: 328, 351
+  index: -1
+ground
+  rotate: true
+  xy: 2, 69
+  size: 10, 186
+  orig: 10, 1200
+  offset: 0, 0
+  index: -1
+kumo1
+  rotate: false
+  xy: 2, 81
+  size: 275, 171
+  orig: 700, 1200
+  offset: 45, 601
+  index: -1
+kumo2
+  rotate: false
+  xy: 644, 373
+  size: 227, 132
+  orig: 700, 1200
+  offset: 457, 842
+  index: -1
+kumo3
+  rotate: false
+  xy: 382, 355
+  size: 260, 150
+  orig: 700, 1200
+  offset: 46, 1010
+  index: -1
+kusa1
+  rotate: true
+  xy: 279, 147
+  size: 105, 74
+  orig: 700, 1200
+  offset: 65, 163
+  index: -1
+kusa2
+  rotate: false
+  xy: 382, 300
+  size: 84, 53
+  orig: 700, 1200
+  offset: 548, 166
+  index: -1

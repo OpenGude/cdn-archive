@@ -1,0 +1,132 @@
+
+gudetama-139-manually_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anguang_01
+  rotate: true
+  xy: 1289, 468
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+bai_01
+  rotate: false
+  xy: 541, 328
+  size: 550, 182
+  orig: 550, 182
+  offset: 0, 0
+  index: -1
+bai_02
+  rotate: false
+  xy: 1093, 460
+  size: 194, 50
+  orig: 194, 50
+  offset: 0, 0
+  index: -1
+bai_03
+  rotate: false
+  xy: 1093, 409
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 33
+  size: 265, 148
+  orig: 265, 148
+  offset: 0, 0
+  index: -1
+eye_01
+  rotate: false
+  xy: 1093, 392
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+eye_02
+  rotate: false
+  xy: 793, 308
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+gaoguang_01
+  rotate: false
+  xy: 1182, 442
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+gaoguang_02
+  rotate: false
+  xy: 2, 3
+  size: 108, 28
+  orig: 108, 28
+  offset: 0, 0
+  index: -1
+mao_01
+  rotate: false
+  xy: 686, 246
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+mao_02
+  rotate: false
+  xy: 541, 219
+  size: 143, 107
+  orig: 143, 107
+  offset: 0, 0
+  index: -1
+mao_03
+  rotate: false
+  xy: 269, 96
+  size: 124, 85
+  orig: 124, 85
+  offset: 0, 0
+  index: -1
+pai
+  rotate: false
+  xy: 2, 183
+  size: 537, 327
+  orig: 537, 327
+  offset: 0, 0
+  index: -1
+tui_01
+  rotate: false
+  xy: 686, 272
+  size: 105, 54
+  orig: 105, 54
+  offset: 0, 0
+  index: -1
+tui_02
+  rotate: false
+  xy: 541, 184
+  size: 77, 33
+  orig: 77, 33
+  offset: 0, 0
+  index: -1
+tui_03
+  rotate: false
+  xy: 269, 55
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+zui_01
+  rotate: false
+  xy: 112, 2
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+zui_02
+  rotate: false
+  xy: 395, 146
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1

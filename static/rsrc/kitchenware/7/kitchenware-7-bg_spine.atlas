@@ -1,0 +1,76 @@
+
+kitchenware-7-bg_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+balloon
+  rotate: false
+  xy: 1344, 192
+  size: 220, 212
+  orig: 220, 212
+  offset: 0, 0
+  index: -1
+cloud01
+  rotate: false
+  xy: 2, 11
+  size: 489, 393
+  orig: 489, 393
+  offset: 0, 0
+  index: -1
+griddlecover
+  rotate: false
+  xy: 974, 258
+  size: 368, 146
+  orig: 368, 146
+  offset: 0, 0
+  index: -1
+griddlecover_light
+  rotate: false
+  xy: 493, 33
+  size: 366, 123
+  orig: 366, 123
+  offset: 0, 0
+  index: -1
+hotgriddle
+  rotate: false
+  xy: 493, 158
+  size: 479, 246
+  orig: 479, 246
+  offset: 0, 0
+  index: -1
+moja1
+  rotate: true
+  xy: 974, 71
+  size: 185, 189
+  orig: 256, 256
+  offset: 32, 29
+  index: -1
+moja2
+  rotate: false
+  xy: 1307, 2
+  size: 188, 188
+  orig: 256, 256
+  offset: 29, 34
+  index: -1
+moja3
+  rotate: false
+  xy: 1566, 216
+  size: 196, 188
+  orig: 256, 256
+  offset: 27, 32
+  index: -1
+moja4
+  rotate: true
+  xy: 1764, 221
+  size: 183, 194
+  orig: 256, 256
+  offset: 32, 32
+  index: -1
+test00@tamago
+  rotate: false
+  xy: 1165, 87
+  size: 140, 169
+  orig: 160, 190
+  offset: 10, 10
+  index: -1

@@ -1,0 +1,97 @@
+
+gudetama-174-manually_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_raito2
+  rotate: false
+  xy: 604, 178
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+11_te_migi
+  rotate: false
+  xy: 154, 13
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+12_te_hidari
+  rotate: false
+  xy: 101, 12
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+13_efect
+  rotate: true
+  xy: 635, 594
+  size: 423, 358
+  orig: 423, 358
+  offset: 0, 0
+  index: -1
+1_kara_oku
+  rotate: false
+  xy: 2, 566
+  size: 631, 451
+  orig: 631, 451
+  offset: 0, 0
+  index: -1
+2_kara_temae
+  rotate: false
+  xy: 2, 257
+  size: 681, 307
+  orig: 681, 307
+  offset: 0, 0
+  index: -1
+3_kara_futi
+  rotate: true
+  xy: 685, 99
+  size: 493, 297
+  orig: 493, 297
+  offset: 0, 0
+  index: -1
+4_siro
+  rotate: false
+  xy: 2, 72
+  size: 359, 183
+  orig: 359, 183
+  offset: 0, 0
+  index: -1
+5_kimi
+  rotate: true
+  xy: 363, 52
+  size: 203, 239
+  orig: 203, 239
+  offset: 0, 0
+  index: -1
+6_kao
+  rotate: false
+  xy: 2, 8
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+7_raito1
+  rotate: false
+  xy: 207, 25
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+8_asi_migi
+  rotate: false
+  xy: 730, 6
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+9_asi_hidari
+  rotate: true
+  xy: 604, 2
+  size: 95, 124
+  orig: 95, 124
+  offset: 0, 0
+  index: -1

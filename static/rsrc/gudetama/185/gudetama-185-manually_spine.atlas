@@ -1,0 +1,188 @@
+
+gudetama-185-manually_spine.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 875, 34
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 915, 82
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 782, 5
+  size: 91, 120
+  orig: 91, 120
+  offset: 0, 0
+  index: -1
+body_light
+  rotate: true
+  xy: 517, 57
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+egg
+  rotate: true
+  xy: 584, 2
+  size: 123, 196
+  orig: 123, 196
+  offset: 0, 0
+  index: -1
+egg_shadow
+  rotate: true
+  xy: 324, 18
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 894, 34
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 324, 7
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+ito_01
+  rotate: true
+  xy: 339, 100
+  size: 25, 243
+  orig: 25, 243
+  offset: 0, 0
+  index: -1
+ito_2
+  rotate: true
+  xy: 339, 79
+  size: 19, 195
+  orig: 19, 195
+  offset: 0, 0
+  index: -1
+ito_3
+  rotate: true
+  xy: 339, 60
+  size: 17, 176
+  orig: 17, 176
+  offset: 0, 0
+  index: -1
+ito_4
+  rotate: true
+  xy: 324, 42
+  size: 16, 176
+  orig: 16, 176
+  offset: 0, 0
+  index: -1
+ito_5
+  rotate: true
+  xy: 2, 4
+  size: 55, 320
+  orig: 55, 320
+  offset: 0, 0
+  index: -1
+ito_6
+  rotate: true
+  xy: 2, 61
+  size: 64, 335
+  orig: 64, 335
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 536, 60
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 875, 79
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+mame_01
+  rotate: false
+  xy: 875, 3
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+mame_02
+  rotate: false
+  xy: 934, 96
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+mame_03
+  rotate: false
+  xy: 965, 96
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+mame_04
+  rotate: true
+  xy: 446, 16
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+mame_05
+  rotate: true
+  xy: 934, 70
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+mame_06
+  rotate: true
+  xy: 894, 45
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+mame_07
+  rotate: true
+  xy: 996, 93
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+mame_08
+  rotate: true
+  xy: 411, 17
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+mame_09
+  rotate: true
+  xy: 376, 18
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 968, 83
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+gudetama-38-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 911, 110
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 781, 62
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 23
+  size: 165, 225
+  orig: 165, 225
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 169, 116
+  size: 132, 243
+  orig: 132, 243
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 820, 109
+  size: 41, 89
+  orig: 41, 89
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 820, 152
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 2, 3
+  size: 18, 83
+  orig: 18, 83
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 696, 24
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 87, 2
+  size: 63, 19
+  orig: 63, 19
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 950, 161
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1011, 237
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 696, 62
+  size: 28, 83
+  orig: 28, 83
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 752, 47
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 536, 19
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 820, 91
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 634, 30
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 152, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 820, 76
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 385, 31
+  size: 149, 74
+  orig: 149, 74
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 637, 92
+  size: 181, 156
+  orig: 181, 156
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 414, 107
+  size: 221, 141
+  orig: 221, 141
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 169, 19
+  size: 95, 214
+  orig: 95, 214
+  offset: 0, 0
+  index: -1

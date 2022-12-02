@@ -1,0 +1,139 @@
+
+gudetama-42-manually_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guo01
+  rotate: true
+  xy: 2, 300
+  size: 1069, 418
+  orig: 1069, 418
+  offset: 0, 0
+  index: -1
+guo02
+  rotate: false
+  xy: 2, 1371
+  size: 1063, 541
+  orig: 1063, 541
+  offset: 0, 0
+  index: -1
+shiwu_a01
+  rotate: false
+  xy: 2, 21
+  size: 328, 277
+  orig: 328, 277
+  offset: 0, 0
+  index: -1
+shiwu_a02
+  rotate: true
+  xy: 422, 488
+  size: 304, 266
+  orig: 304, 266
+  offset: 0, 0
+  index: -1
+shiwu_b
+  rotate: true
+  xy: 906, 1158
+  size: 211, 183
+  orig: 211, 183
+  offset: 0, 0
+  index: -1
+shiwu_c01
+  rotate: false
+  xy: 704, 810
+  size: 236, 283
+  orig: 236, 283
+  offset: 0, 0
+  index: -1
+shiwu_c02
+  rotate: true
+  xy: 1974, 1829
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1
+shiwu_c03
+  rotate: true
+  xy: 1807, 1523
+  size: 73, 132
+  orig: 73, 132
+  offset: 0, 0
+  index: -1
+shiwu_d01
+  rotate: false
+  xy: 422, 794
+  size: 280, 299
+  orig: 280, 299
+  offset: 0, 0
+  index: -1
+shiwu_e01
+  rotate: false
+  xy: 422, 1095
+  size: 482, 274
+  orig: 482, 274
+  offset: 0, 0
+  index: -1
+shiwu_e02
+  rotate: false
+  xy: 1428, 1419
+  size: 383, 64
+  orig: 383, 64
+  offset: 0, 0
+  index: -1
+shiwu_f01
+  rotate: true
+  xy: 422, 275
+  size: 211, 280
+  orig: 211, 280
+  offset: 0, 0
+  index: -1
+shiwu_f02
+  rotate: true
+  xy: 1428, 1485
+  size: 111, 377
+  orig: 111, 377
+  offset: 0, 0
+  index: -1
+shiwu_g01
+  rotate: true
+  xy: 332, 2
+  size: 271, 278
+  orig: 271, 278
+  offset: 0, 0
+  index: -1
+shiwu_g02
+  rotate: true
+  xy: 1067, 1417
+  size: 179, 359
+  orig: 179, 359
+  offset: 0, 0
+  index: -1
+yan01
+  rotate: true
+  xy: 1091, 1238
+  size: 177, 293
+  orig: 177, 293
+  offset: 0, 0
+  index: -1
+yan02
+  rotate: false
+  xy: 942, 862
+  size: 176, 294
+  orig: 176, 294
+  offset: 0, 0
+  index: -1
+yan03
+  rotate: false
+  xy: 1120, 943
+  size: 177, 293
+  orig: 177, 293
+  offset: 0, 0
+  index: -1
+zhi_01
+  rotate: false
+  xy: 1067, 1598
+  size: 905, 314
+  orig: 905, 314
+  offset: 0, 0
+  index: -1

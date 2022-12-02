@@ -1,0 +1,97 @@
+
+gudetama-140-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: true
+  xy: 967, 138
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 849, 68
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+danbai
+  rotate: false
+  xy: 2, 73
+  size: 550, 174
+  orig: 550, 174
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 277, 42
+  size: 138, 29
+  orig: 138, 29
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 19
+  size: 154, 52
+  orig: 154, 52
+  offset: 0, 0
+  index: -1
+guangshen1
+  rotate: true
+  xy: 935, 138
+  size: 109, 30
+  orig: 109, 30
+  offset: 0, 0
+  index: -1
+guangshen2
+  rotate: false
+  xy: 2, 2
+  size: 69, 15
+  orig: 69, 15
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 554, 45
+  size: 293, 202
+  orig: 293, 202
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 158, 17
+  size: 54, 117
+  orig: 54, 117
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 277, 20
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 417, 47
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 849, 132
+  size: 84, 115
+  orig: 84, 115
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 967, 196
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1

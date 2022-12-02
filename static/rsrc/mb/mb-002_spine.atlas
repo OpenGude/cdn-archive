@@ -1,0 +1,55 @@
+
+mb-002_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 537
+  size: 700, 450
+  orig: 700, 450
+  offset: 0, 0
+  index: -1
+chara00
+  rotate: false
+  xy: 1, 56
+  size: 605, 480
+  orig: 612, 480
+  offset: 3, 0
+  index: -1
+chara00add
+  rotate: false
+  xy: 1315, 647
+  size: 306, 240
+  orig: 306, 240
+  offset: 0, 0
+  index: -1
+chara01
+  rotate: false
+  xy: 702, 559
+  size: 612, 428
+  orig: 620, 432
+  offset: 3, 0
+  index: -1
+chara01add
+  rotate: true
+  xy: 1622, 577
+  size: 310, 216
+  orig: 310, 216
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 1315, 888
+  size: 518, 99
+  orig: 518, 99
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 1
+  size: 358, 54
+  orig: 358, 54
+  offset: 0, 0
+  index: -1

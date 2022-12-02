@@ -1,0 +1,244 @@
+
+gudetama-189-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/arm_l
+  rotate: false
+  xy: 1091, 7
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+images/arm_r
+  rotate: true
+  xy: 1067, 6
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+images/body
+  rotate: true
+  xy: 1876, 120
+  size: 134, 140
+  orig: 134, 140
+  offset: 0, 0
+  index: -1
+images/body_light
+  rotate: true
+  xy: 858, 2
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+images/eye_l
+  rotate: false
+  xy: 211, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+images/eye_r
+  rotate: false
+  xy: 226, 4
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+images/eyebrow_l
+  rotate: false
+  xy: 243, 4
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+images/eyebrow_r
+  rotate: false
+  xy: 253, 5
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+images/ito_01
+  rotate: false
+  xy: 1457, 2
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+images/ito_03
+  rotate: true
+  xy: 1326, 74
+  size: 180, 129
+  orig: 180, 129
+  offset: 0, 0
+  index: -1
+images/ito_05
+  rotate: true
+  xy: 985, 10
+  size: 28, 80
+  orig: 28, 80
+  offset: 0, 0
+  index: -1
+images/ito_06
+  rotate: false
+  xy: 1602, 84
+  size: 135, 170
+  orig: 135, 170
+  offset: 0, 0
+  index: -1
+images/ito_07
+  rotate: false
+  xy: 1739, 84
+  size: 135, 170
+  orig: 135, 170
+  offset: 0, 0
+  index: -1
+images/ito_4
+  rotate: false
+  xy: 1457, 76
+  size: 143, 178
+  orig: 143, 178
+  offset: 0, 0
+  index: -1
+images/leaf_01
+  rotate: false
+  xy: 816, 2
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+images/leaf_02
+  rotate: true
+  xy: 1326, 11
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+images/leaf_03
+  rotate: false
+  xy: 890, 3
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+images/leaf_04
+  rotate: false
+  xy: 2, 3
+  size: 207, 251
+  orig: 207, 251
+  offset: 0, 0
+  index: -1
+images/leaf_05
+  rotate: true
+  xy: 1387, 19
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+images/leaf_06
+  rotate: true
+  xy: 211, 17
+  size: 237, 283
+  orig: 237, 283
+  offset: 0, 0
+  index: -1
+images/leaf_07
+  rotate: true
+  xy: 1058, 51
+  size: 203, 266
+  orig: 203, 266
+  offset: 0, 0
+  index: -1
+images/leaf_08
+  rotate: true
+  xy: 496, 30
+  size: 224, 288
+  orig: 224, 288
+  offset: 0, 0
+  index: -1
+images/leaf_back
+  rotate: true
+  xy: 786, 40
+  size: 214, 270
+  orig: 214, 270
+  offset: 0, 0
+  index: -1
+images/leg_l
+  rotate: false
+  xy: 750, 6
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+images/leg_r
+  rotate: true
+  xy: 496, 2
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+images/mame_01
+  rotate: false
+  xy: 593, 3
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+images/mame_02
+  rotate: false
+  xy: 559, 2
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+images/mame_03
+  rotate: false
+  xy: 956, 7
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+images/mame_04
+  rotate: false
+  xy: 678, 5
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+images/mame_05
+  rotate: true
+  xy: 714, 5
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+images/mame_06
+  rotate: false
+  xy: 932, 4
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+images/mame_07
+  rotate: false
+  xy: 627, 4
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+images/mouth_01
+  rotate: true
+  xy: 1133, 27
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+images/mouth_02
+  rotate: true
+  xy: 662, 4
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1

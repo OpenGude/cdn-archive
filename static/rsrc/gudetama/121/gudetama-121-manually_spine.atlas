@@ -1,0 +1,146 @@
+
+gudetama-121-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 1940, 137
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 1728, 50
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 1859, 85
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 997, 33
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 1918, 104
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 914, 19
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 1859, 185
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 862, 15
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 1940, 114
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1036, 37
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1614, 30
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 955, 30
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1859, 127
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1249, 30
+  size: 363, 211
+  orig: 363, 211
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 1995, 151
+  size: 90, 51
+  orig: 90, 51
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 788, 16
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 1677, 40
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 1614, 68
+  size: 243, 173
+  orig: 243, 173
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 788, 58
+  size: 459, 183
+  orig: 459, 183
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 2, 2
+  size: 784, 239
+  orig: 784, 239
+  offset: 0, 0
+  index: -1

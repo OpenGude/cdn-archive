@@ -1,0 +1,76 @@
+
+helper-2-home_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+all
+  rotate: false
+  xy: 2, 392
+  size: 519, 557
+  orig: 519, 557
+  offset: 0, 0
+  index: -1
+arm
+  rotate: false
+  xy: 2, 2
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+bag
+  rotate: true
+  xy: 750, 432
+  size: 238, 140
+  orig: 238, 140
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 523, 414
+  size: 225, 256
+  orig: 225, 256
+  offset: 0, 0
+  index: -1
+cloud01
+  rotate: false
+  xy: 2, 45
+  size: 424, 345
+  orig: 489, 393
+  offset: 33, 24
+  index: -1
+cloud02
+  rotate: false
+  xy: 523, 672
+  size: 423, 277
+  orig: 432, 280
+  offset: 4, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 428, 324
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 948, 879
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 892, 652
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 523, 392
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1

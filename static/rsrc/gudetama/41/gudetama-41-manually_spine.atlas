@@ -1,0 +1,104 @@
+
+gudetama-41-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dasuan
+  rotate: false
+  xy: 1160, 121
+  size: 135, 123
+  orig: 135, 123
+  offset: 0, 0
+  index: -1
+mihoutao
+  rotate: true
+  xy: 938, 2
+  size: 135, 155
+  orig: 135, 155
+  offset: 0, 0
+  index: -1
+qiaokelibang
+  rotate: true
+  xy: 2, 95
+  size: 149, 397
+  orig: 149, 397
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: false
+  xy: 679, 23
+  size: 257, 221
+  orig: 257, 221
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 938, 139
+  size: 220, 105
+  orig: 220, 105
+  offset: 0, 0
+  index: -1
+wehua
+  rotate: true
+  xy: 401, 72
+  size: 172, 276
+  orig: 172, 276
+  offset: 0, 0
+  index: -1
+yingtao
+  rotate: true
+  xy: 2, 4
+  size: 89, 162
+  orig: 89, 162
+  offset: 0, 0
+  index: -1
+yingtaogaoguang
+  rotate: false
+  xy: 166, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+youanbu
+  rotate: true
+  xy: 1095, 72
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+yougaoguang
+  rotate: true
+  xy: 166, 56
+  size: 37, 112
+  orig: 37, 112
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1095, 19
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+zuoanbu
+  rotate: false
+  xy: 1297, 179
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+zuogaoguang
+  rotate: false
+  xy: 280, 67
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1297, 126
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1

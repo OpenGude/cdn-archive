@@ -1,0 +1,111 @@
+
+gudetama-113-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 607, 2
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+asparagus
+  rotate: true
+  xy: 436, 126
+  size: 128, 334
+  orig: 128, 334
+  offset: 0, 0
+  index: -1
+asparagus2
+  rotate: false
+  xy: 690, 73
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+asparagus3
+  rotate: false
+  xy: 642, 11
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+asparagus4
+  rotate: true
+  xy: 134, 70
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 772, 76
+  size: 178, 225
+  orig: 178, 225
+  offset: 0, 0
+  index: -1
+egg_shadow
+  rotate: false
+  xy: 65, 20
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 999, 240
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 720, 111
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 2, 2
+  size: 94, 61
+  orig: 94, 61
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 607, 58
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 65, 54
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 65, 2
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+white_egg
+  rotate: false
+  xy: 2, 98
+  size: 432, 156
+  orig: 432, 156
+  offset: 0, 0
+  index: -1
+white_head
+  rotate: false
+  xy: 436, 4
+  size: 169, 120
+  orig: 169, 120
+  offset: 0, 0
+  index: -1

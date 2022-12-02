@@ -1,0 +1,76 @@
+
+gudetama-90-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 614, 71
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 2, 2
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 61, 19
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 282, 50
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 61, 2
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 2, 48
+  size: 278, 206
+  orig: 278, 206
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 282, 63
+  size: 244, 191
+  orig: 244, 191
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 528, 64
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 795, 190
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 528, 130
+  size: 265, 124
+  orig: 265, 124
+  offset: 0, 0
+  index: -1

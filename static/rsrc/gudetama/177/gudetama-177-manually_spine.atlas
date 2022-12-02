@@ -1,0 +1,97 @@
+
+gudetama-177-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 420, 63
+  size: 184, 217
+  orig: 184, 217
+  offset: 0, 0
+  index: -1
+body_hilite
+  rotate: false
+  xy: 311, 59
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+clothes
+  rotate: false
+  xy: 639, 87
+  size: 203, 160
+  orig: 203, 160
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 223, 56
+  size: 86, 35
+  orig: 86, 35
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 368, 61
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 844, 148
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1
+left_sleeve
+  rotate: true
+  xy: 844, 98
+  size: 48, 90
+  orig: 48, 90
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 198, 10
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 2, 2
+  size: 89, 102
+  orig: 89, 102
+  offset: 0, 0
+  index: -1
+right_sleeve
+  rotate: false
+  xy: 951, 157
+  size: 48, 90
+  orig: 48, 90
+  offset: 0, 0
+  index: -1
+shiromi
+  rotate: false
+  xy: 2, 93
+  size: 416, 154
+  orig: 416, 154
+  offset: 0, 0
+  index: -1
+shiromi_hilite_1
+  rotate: false
+  xy: 106, 7
+  size: 90, 38
+  orig: 90, 38
+  offset: 0, 0
+  index: -1
+shiromi_hilite_2
+  rotate: false
+  xy: 106, 47
+  size: 115, 44
+  orig: 115, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+gudetama-158-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 262, 2
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 280, 2
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 775, 139
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 741, 137
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 660, 73
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 758, 137
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 660, 90
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 2
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 723, 136
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 439, 60
+  size: 113, 70
+  orig: 113, 70
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 262, 41
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 660, 108
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 31, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 105
+  size: 310, 149
+  orig: 310, 149
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 19, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 262, 18
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 314, 65
+  size: 65, 123
+  orig: 65, 123
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 626, 129
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 624, 70
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 624, 22
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 870, 162
+  size: 113, 92
+  orig: 113, 92
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 689, 131
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 554, 25
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 2, 15
+  size: 258, 88
+  orig: 258, 88
+  offset: 0, 0
+  index: -1
+25
+  rotate: true
+  xy: 985, 165
+  size: 89, 37
+  orig: 89, 37
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 626, 154
+  size: 242, 100
+  orig: 242, 100
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 314, 132
+  size: 310, 122
+  orig: 310, 122
+  offset: 0, 0
+  index: -1

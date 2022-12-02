@@ -1,0 +1,160 @@
+
+gudetama-95-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fantuan
+  rotate: true
+  xy: 563, 97
+  size: 157, 265
+  orig: 157, 265
+  offset: 0, 0
+  index: -1
+fantuan2
+  rotate: true
+  xy: 296, 96
+  size: 158, 265
+  orig: 158, 265
+  offset: 0, 0
+  index: -1
+leng1
+  rotate: false
+  xy: 830, 32
+  size: 169, 222
+  orig: 169, 222
+  offset: 0, 0
+  index: -1
+leng2
+  rotate: false
+  xy: 830, 32
+  size: 169, 222
+  orig: 169, 222
+  offset: 0, 0
+  index: -1
+shenti1
+  rotate: true
+  xy: 2, 32
+  size: 222, 292
+  orig: 222, 292
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 2, 32
+  size: 222, 292
+  orig: 222, 292
+  offset: 0, 0
+  index: -1
+youjiao1
+  rotate: false
+  xy: 637, 45
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+youjiao2
+  rotate: false
+  xy: 637, 45
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 558, 2
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 558, 2
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+youyan1
+  rotate: false
+  xy: 114, 15
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+youyan2
+  rotate: true
+  xy: 1001, 230
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+zicai1
+  rotate: false
+  xy: 296, 35
+  size: 260, 59
+  orig: 260, 59
+  offset: 0, 0
+  index: -1
+zicai2
+  rotate: false
+  xy: 296, 35
+  size: 260, 59
+  orig: 260, 59
+  offset: 0, 0
+  index: -1
+zuiba1
+  rotate: false
+  xy: 57, 7
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+zuiba2
+  rotate: false
+  xy: 2, 2
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+zuojiao1
+  rotate: false
+  xy: 563, 53
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+zuojiao2
+  rotate: false
+  xy: 563, 53
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 701, 38
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 701, 38
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+zuoyan1
+  rotate: true
+  xy: 621, 25
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+zuoyan2
+  rotate: false
+  xy: 764, 81
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1

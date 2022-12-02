@@ -1,0 +1,153 @@
+
+gudetama-127-manually_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 1727, 797
+  size: 214, 292
+  orig: 214, 292
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1262, 627
+  size: 102, 45
+  orig: 102, 45
+  offset: 0, 0
+  index: -1
+folk
+  rotate: true
+  xy: 735, 875
+  size: 136, 594
+  orig: 136, 594
+  offset: 0, 0
+  index: -1
+handle1
+  rotate: false
+  xy: 322, 306
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+handle2
+  rotate: false
+  xy: 322, 173
+  size: 111, 55
+  orig: 111, 55
+  offset: 0, 0
+  index: -1
+hat1
+  rotate: false
+  xy: 1154, 731
+  size: 156, 142
+  orig: 156, 142
+  offset: 0, 0
+  index: -1
+hat2
+  rotate: false
+  xy: 471, 338
+  size: 79, 115
+  orig: 79, 115
+  offset: 0, 0
+  index: -1
+hat3
+  rotate: false
+  xy: 2, 2
+  size: 209, 147
+  orig: 209, 147
+  offset: 0, 0
+  index: -1
+hat4
+  rotate: false
+  xy: 322, 230
+  size: 143, 74
+  orig: 143, 74
+  offset: 0, 0
+  index: -1
+kara_1
+  rotate: true
+  xy: 2, 151
+  size: 409, 318
+  orig: 409, 318
+  offset: 0, 0
+  index: -1
+kara_1oku
+  rotate: false
+  xy: 322, 455
+  size: 390, 230
+  orig: 390, 230
+  offset: 0, 0
+  index: -1
+kara_2
+  rotate: false
+  xy: 317, 687
+  size: 416, 324
+  orig: 416, 324
+  offset: 0, 0
+  index: -1
+kara_2oku
+  rotate: false
+  xy: 1331, 787
+  size: 394, 224
+  orig: 394, 224
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 2021, 865
+  size: 146, 12
+  orig: 146, 12
+  offset: 0, 0
+  index: -1
+spoon
+  rotate: true
+  xy: 735, 584
+  size: 289, 417
+  orig: 289, 417
+  offset: 0, 0
+  index: -1
+te_l
+  rotate: false
+  xy: 600, 420
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+te_r
+  rotate: false
+  xy: 322, 127
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+tire1
+  rotate: false
+  xy: 552, 393
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+tire2
+  rotate: false
+  xy: 1154, 584
+  size: 106, 145
+  orig: 106, 145
+  offset: 0, 0
+  index: -1
+tire3
+  rotate: false
+  xy: 213, 4
+  size: 107, 145
+  orig: 107, 145
+  offset: 0, 0
+  index: -1
+youji
+  rotate: false
+  xy: 2, 562
+  size: 313, 449
+  orig: 313, 449
+  offset: 0, 0
+  index: -1

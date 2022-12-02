@@ -1,0 +1,132 @@
+
+gacha-6-machine_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+capsule
+  rotate: false
+  xy: 2, 97
+  size: 391, 410
+  orig: 700, 1200
+  offset: 155, 494
+  index: -1
+eggs
+  rotate: false
+  xy: 766, 203
+  size: 352, 304
+  orig: 700, 1200
+  offset: 179, 481
+  index: -1
+exclamationＭark
+  rotate: false
+  xy: 1623, 315
+  size: 42, 101
+  orig: 42, 101
+  offset: 0, 0
+  index: -1
+goldEgg
+  rotate: false
+  xy: 915, 58
+  size: 120, 143
+  orig: 120, 143
+  offset: 0, 0
+  index: -1
+isu
+  rotate: true
+  xy: 1383, 218
+  size: 198, 238
+  orig: 198, 238
+  offset: 0, 0
+  index: -1
+milk_PonBlenderCap
+  rotate: false
+  xy: 395, 70
+  size: 236, 140
+  orig: 700, 1200
+  offset: 232, 831
+  index: -1
+milk_PonBlenderFront
+  rotate: false
+  xy: 395, 212
+  size: 369, 295
+  orig: 700, 1200
+  offset: 166, 219
+  index: -1
+milk_PonHandle
+  rotate: false
+  xy: 761, 54
+  size: 152, 147
+  orig: 700, 1200
+  offset: 274, 291
+  index: -1
+mint1
+  rotate: false
+  xy: 1708, 406
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+mint2
+  rotate: false
+  xy: 108, 11
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+mint3
+  rotate: false
+  xy: 1037, 128
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+n
+  rotate: false
+  xy: 1614, 418
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+po
+  rotate: false
+  xy: 2, 2
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+syaki1
+  rotate: true
+  xy: 1120, 233
+  size: 183, 261
+  orig: 183, 261
+  offset: 0, 0
+  index: -1
+syaki2
+  rotate: false
+  xy: 194, 47
+  size: 31, 48
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+syaki3
+  rotate: false
+  xy: 1811, 472
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+tapText
+  rotate: false
+  xy: 1120, 418
+  size: 492, 89
+  orig: 700, 1200
+  offset: 103, 962
+  index: -1
+whiteEgg
+  rotate: false
+  xy: 633, 75
+  size: 126, 135
+  orig: 126, 135
+  offset: 0, 0
+  index: -1

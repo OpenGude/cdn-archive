@@ -1,0 +1,125 @@
+
+gudetama-86-manually_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: true
+  xy: 517, 2
+  size: 97, 132
+  orig: 97, 132
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: true
+  xy: 990, 583
+  size: 97, 609
+  orig: 97, 609
+  offset: 0, 0
+  index: -1
+arm3
+  rotate: true
+  xy: 918, 271
+  size: 97, 591
+  orig: 97, 591
+  offset: 0, 0
+  index: -1
+ashi
+  rotate: false
+  xy: 918, 218
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1420, 388
+  size: 193, 112
+  orig: 193, 112
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 918, 588
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 517, 214
+  size: 399, 408
+  orig: 399, 408
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 2, 91
+  size: 513, 531
+  orig: 513, 531
+  offset: 0, 0
+  index: -1
+hone_l
+  rotate: false
+  xy: 517, 101
+  size: 263, 111
+  orig: 263, 111
+  offset: 0, 0
+  index: -1
+hone_r
+  rotate: false
+  xy: 1566, 821
+  size: 263, 111
+  orig: 263, 111
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1566, 799
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+niku
+  rotate: false
+  xy: 990, 682
+  size: 574, 340
+  orig: 574, 340
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1831, 898
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+shadow_niku
+  rotate: false
+  xy: 1566, 934
+  size: 463, 88
+  orig: 463, 88
+  offset: 0, 0
+  index: -1
+shiromi
+  rotate: false
+  xy: 918, 370
+  size: 500, 211
+  orig: 500, 211
+  offset: 0, 0
+  index: -1
+stage
+  rotate: false
+  xy: 2, 624
+  size: 986, 398
+  orig: 986, 398
+  offset: 0, 0
+  index: -1
+te
+  rotate: false
+  xy: 782, 185
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1

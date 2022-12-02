@@ -1,0 +1,97 @@
+
+gudetama-35-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 2, 3
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 167, 5
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 560, 81
+  size: 292, 165
+  orig: 292, 165
+  offset: 0, 0
+  index: -1
+body_shiromi
+  rotate: false
+  xy: 2, 53
+  size: 556, 193
+  orig: 556, 193
+  offset: 0, 0
+  index: -1
+cheek_l
+  rotate: false
+  xy: 977, 104
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+cheek_r
+  rotate: false
+  xy: 124, 3
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 560, 58
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 313, 32
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 854, 155
+  size: 157, 91
+  orig: 157, 91
+  offset: 0, 0
+  index: -1
+foot
+  rotate: false
+  xy: 854, 94
+  size: 121, 59
+  orig: 121, 59
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 265, 19
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 208, 24
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 64, 2
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1

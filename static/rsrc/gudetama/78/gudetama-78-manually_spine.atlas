@@ -1,0 +1,153 @@
+
+gudetama-78-manually_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1112, 526
+  size: 256, 204
+  orig: 256, 204
+  offset: 0, 0
+  index: -1
+dish
+  rotate: false
+  xy: 2, 1252
+  size: 1246, 773
+  orig: 1246, 773
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1982, 1399
+  size: 95, 64
+  orig: 95, 64
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1211, 1199
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+light_n1
+  rotate: false
+  xy: 1877, 860
+  size: 98, 90
+  orig: 98, 90
+  offset: 0, 0
+  index: -1
+light_n2
+  rotate: true
+  xy: 486, 196
+  size: 160, 87
+  orig: 160, 87
+  offset: 0, 0
+  index: -1
+n1
+  rotate: false
+  xy: 623, 558
+  size: 487, 298
+  orig: 487, 298
+  offset: 0, 0
+  index: -1
+n10
+  rotate: false
+  xy: 623, 858
+  size: 586, 392
+  orig: 586, 392
+  offset: 0, 0
+  index: -1
+n2
+  rotate: false
+  xy: 590, 159
+  size: 473, 397
+  orig: 473, 397
+  offset: 0, 0
+  index: -1
+n3
+  rotate: false
+  xy: 1250, 971
+  size: 434, 330
+  orig: 434, 330
+  offset: 0, 0
+  index: -1
+n4
+  rotate: false
+  xy: 2, 358
+  size: 586, 392
+  orig: 586, 392
+  offset: 0, 0
+  index: -1
+n5
+  rotate: true
+  xy: 2, 2
+  size: 354, 482
+  orig: 354, 482
+  offset: 0, 0
+  index: -1
+n6
+  rotate: false
+  xy: 1250, 1303
+  size: 529, 277
+  orig: 529, 277
+  offset: 0, 0
+  index: -1
+n8
+  rotate: true
+  xy: 1211, 732
+  size: 237, 380
+  orig: 237, 380
+  offset: 0, 0
+  index: -1
+n9
+  rotate: true
+  xy: 1801, 1496
+  size: 529, 225
+  orig: 529, 225
+  offset: 0, 0
+  index: -1
+retas1
+  rotate: false
+  xy: 2, 752
+  size: 619, 498
+  orig: 619, 498
+  offset: 0, 0
+  index: -1
+retas2
+  rotate: false
+  xy: 1250, 1582
+  size: 549, 443
+  orig: 549, 443
+  offset: 0, 0
+  index: -1
+shiromi
+  rotate: true
+  xy: 1686, 952
+  size: 349, 291
+  orig: 349, 291
+  offset: 0, 0
+  index: -1
+source1
+  rotate: false
+  xy: 1593, 722
+  size: 282, 228
+  orig: 282, 228
+  offset: 0, 0
+  index: -1
+source2
+  rotate: false
+  xy: 1781, 1310
+  size: 199, 184
+  orig: 199, 184
+  offset: 0, 0
+  index: -1
+te
+  rotate: true
+  xy: 590, 688
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1

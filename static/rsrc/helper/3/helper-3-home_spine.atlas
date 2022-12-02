@@ -1,0 +1,90 @@
+
+helper-3-home_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+all
+  rotate: true
+  xy: 428, 145
+  size: 355, 356
+  orig: 356, 356
+  offset: 0, 0
+  index: -1
+arm1
+  rotate: false
+  xy: 147, 82
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 1762, 429
+  size: 53, 71
+  orig: 55, 71
+  offset: 1, 0
+  index: -1
+body
+  rotate: true
+  xy: 1211, 235
+  size: 265, 313
+  orig: 265, 313
+  offset: 0, 0
+  index: -1
+cloud01
+  rotate: false
+  xy: 2, 155
+  size: 424, 345
+  orig: 489, 393
+  offset: 33, 24
+  index: -1
+cloud02
+  rotate: false
+  xy: 786, 223
+  size: 423, 277
+  orig: 432, 280
+  offset: 4, 0
+  index: -1
+kinoko1
+  rotate: false
+  xy: 2, 27
+  size: 143, 126
+  orig: 143, 126
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 786, 158
+  size: 63, 86
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 1526, 253
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 2, 2
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 874, 207
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+okura
+  rotate: false
+  xy: 1526, 279
+  size: 234, 221
+  orig: 234, 221
+  offset: 0, 0
+  index: -1

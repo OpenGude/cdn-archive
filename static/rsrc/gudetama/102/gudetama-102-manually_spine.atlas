@@ -1,0 +1,97 @@
+
+gudetama-102-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 146, 46
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 775, 104
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 964, 228
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 90, 22
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 439, 42
+  size: 201, 232
+  orig: 201, 232
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 673, 138
+  size: 201, 105
+  orig: 201, 105
+  offset: 0, 0
+  index: -1
+light01
+  rotate: false
+  xy: 673, 47
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 876, 178
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+mp01
+  rotate: false
+  xy: 876, 204
+  size: 86, 39
+  orig: 86, 39
+  offset: 0, 0
+  index: -1
+mp02
+  rotate: false
+  xy: 2, 2
+  size: 86, 39
+  orig: 86, 39
+  offset: 0, 0
+  index: -1
+shado02
+  rotate: false
+  xy: 2, 43
+  size: 142, 47
+  orig: 142, 47
+  offset: 0, 0
+  index: -1
+shadow01
+  rotate: true
+  xy: 673, 103
+  size: 33, 100
+  orig: 33, 100
+  offset: 0, 0
+  index: -1
+shiro
+  rotate: false
+  xy: 2, 92
+  size: 435, 151
+  orig: 435, 151
+  offset: 0, 0
+  index: -1

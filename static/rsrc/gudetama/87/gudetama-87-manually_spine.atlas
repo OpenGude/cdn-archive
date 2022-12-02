@@ -1,0 +1,167 @@
+
+gudetama-87-manually_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0087_01
+  rotate: false
+  xy: 1692, 209
+  size: 172, 116
+  orig: 172, 116
+  offset: 0, 0
+  index: -1
+0087_02
+  rotate: false
+  xy: 2, 50
+  size: 462, 202
+  orig: 462, 202
+  offset: 0, 0
+  index: -1
+0087_03
+  rotate: false
+  xy: 466, 57
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+0087_04
+  rotate: false
+  xy: 1126, 227
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+0087_05
+  rotate: false
+  xy: 1493, 154
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+0087_06
+  rotate: false
+  xy: 1147, 173
+  size: 201, 151
+  orig: 201, 151
+  offset: 0, 0
+  index: -1
+0087_07
+  rotate: true
+  xy: 1350, 129
+  size: 195, 141
+  orig: 195, 141
+  offset: 0, 0
+  index: -1
+0087_08
+  rotate: false
+  xy: 1493, 173
+  size: 197, 152
+  orig: 197, 152
+  offset: 0, 0
+  index: -1
+0087_09
+  rotate: false
+  xy: 1126, 55
+  size: 151, 116
+  orig: 151, 116
+  offset: 0, 0
+  index: -1
+0087_10
+  rotate: false
+  xy: 1969, 451
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+0087_11
+  rotate: false
+  xy: 2, 2
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+0087_12
+  rotate: false
+  xy: 1147, 353
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+0087_13
+  rotate: true
+  xy: 1279, 128
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+0087_14
+  rotate: false
+  xy: 466, 87
+  size: 246, 163
+  orig: 246, 163
+  offset: 0, 0
+  index: -1
+0087_15
+  rotate: false
+  xy: 1225, 326
+  size: 246, 163
+  orig: 246, 163
+  offset: 0, 0
+  index: -1
+0087_16
+  rotate: false
+  xy: 1473, 327
+  size: 246, 162
+  orig: 246, 162
+  offset: 0, 0
+  index: -1
+0087_17
+  rotate: false
+  xy: 1721, 327
+  size: 246, 162
+  orig: 246, 162
+  offset: 0, 0
+  index: -1
+0087_18
+  rotate: true
+  xy: 714, 4
+  size: 246, 162
+  orig: 246, 162
+  offset: 0, 0
+  index: -1
+0087_19
+  rotate: false
+  xy: 878, 79
+  size: 246, 162
+  orig: 246, 162
+  offset: 0, 0
+  index: -1
+0087_20
+  rotate: false
+  xy: 890, 377
+  size: 333, 112
+  orig: 333, 112
+  offset: 0, 0
+  index: -1
+0087_21
+  rotate: false
+  xy: 468, 252
+  size: 420, 237
+  orig: 420, 237
+  offset: 0, 0
+  index: -1
+0087_22
+  rotate: false
+  xy: 2, 254
+  size: 464, 235
+  orig: 464, 235
+  offset: 0, 0
+  index: -1
+0087_23
+  rotate: false
+  xy: 890, 243
+  size: 255, 132
+  orig: 255, 132
+  offset: 0, 0
+  index: -1

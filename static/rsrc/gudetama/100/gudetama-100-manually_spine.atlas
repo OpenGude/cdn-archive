@@ -1,0 +1,139 @@
+
+gudetama-100-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 135, 30
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1025, 74
+  size: 180, 213
+  orig: 180, 213
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 1449, 179
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 826, 91
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+fish
+  rotate: true
+  xy: 425, 56
+  size: 198, 341
+  orig: 198, 341
+  offset: 0, 0
+  index: -1
+fish_eye
+  rotate: false
+  xy: 196, 57
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+fish_eye2
+  rotate: true
+  xy: 135, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 1368, 194
+  size: 107, 60
+  orig: 107, 60
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 1368, 135
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+lid
+  rotate: true
+  xy: 768, 59
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 2, 2
+  size: 17, 49
+  orig: 17, 49
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1240, 79
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+scale
+  rotate: false
+  xy: 1240, 97
+  size: 126, 157
+  orig: 126, 157
+  offset: 0, 0
+  index: -1
+soy sauce
+  rotate: true
+  xy: 768, 105
+  size: 149, 255
+  orig: 149, 255
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 1477, 223
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: true
+  xy: 53, 2
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+tail3
+  rotate: true
+  xy: 1368, 122
+  size: 11, 39
+  orig: 11, 39
+  offset: 0, 0
+  index: -1
+w_egg
+  rotate: false
+  xy: 2, 71
+  size: 421, 183
+  orig: 421, 183
+  offset: 0, 0
+  index: -1
+w_light
+  rotate: false
+  xy: 2, 21
+  size: 131, 48
+  orig: 131, 48
+  offset: 0, 0
+  index: -1

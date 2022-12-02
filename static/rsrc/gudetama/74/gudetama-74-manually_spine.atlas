@@ -1,0 +1,132 @@
+
+gudetama-74-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ashi
+  rotate: false
+  xy: 2, 47
+  size: 152, 29
+  orig: 152, 29
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 483, 80
+  size: 174, 207
+  orig: 174, 207
+  offset: 0, 0
+  index: -1
+eboshi
+  rotate: true
+  xy: 483, 2
+  size: 76, 110
+  orig: 76, 110
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 914, 33
+  size: 86, 32
+  orig: 86, 32
+  offset: 0, 0
+  index: -1
+fuku
+  rotate: false
+  xy: 692, 119
+  size: 209, 135
+  orig: 209, 135
+  offset: 0, 0
+  index: -1
+mayu
+  rotate: true
+  xy: 1012, 202
+  size: 52, 9
+  orig: 52, 9
+  offset: 0, 0
+  index: -1
+red_l
+  rotate: false
+  xy: 595, 2
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+red_neck_l
+  rotate: true
+  xy: 903, 121
+  size: 133, 56
+  orig: 133, 56
+  offset: 0, 0
+  index: -1
+red_neck_r
+  rotate: true
+  xy: 853, 20
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+red_r
+  rotate: false
+  xy: 106, 21
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+shadow_shi1
+  rotate: false
+  xy: 2, 3
+  size: 102, 42
+  orig: 102, 42
+  offset: 0, 0
+  index: -1
+shadow_shi2
+  rotate: true
+  xy: 961, 124
+  size: 130, 49
+  orig: 130, 49
+  offset: 0, 0
+  index: -1
+shiromi
+  rotate: false
+  xy: 2, 78
+  size: 479, 176
+  orig: 479, 176
+  offset: 0, 0
+  index: -1
+syaku
+  rotate: true
+  xy: 595, 25
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+te_l
+  rotate: true
+  xy: 773, 2
+  size: 115, 78
+  orig: 115, 78
+  offset: 0, 0
+  index: -1
+te_r
+  rotate: true
+  xy: 692, 2
+  size: 115, 79
+  orig: 115, 79
+  offset: 0, 0
+  index: -1
+ten_l
+  rotate: false
+  xy: 228, 28
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+ten_r
+  rotate: false
+  xy: 156, 28
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1

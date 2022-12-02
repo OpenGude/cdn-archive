@@ -1,0 +1,90 @@
+
+gudetama-97-manually_spine.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+danbai
+  rotate: false
+  xy: 2, 352
+  size: 473, 150
+  orig: 473, 150
+  offset: 0, 0
+  index: -1
+danyingyingzuo
+  rotate: false
+  xy: 2, 47
+  size: 133, 45
+  orig: 133, 45
+  offset: 0, 0
+  index: -1
+danyinyingyou
+  rotate: false
+  xy: 281, 324
+  size: 120, 26
+  orig: 120, 26
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 94
+  size: 277, 256
+  orig: 277, 256
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 477, 441
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+youkutui
+  rotate: false
+  xy: 281, 250
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 281, 104
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 403, 337
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 137, 51
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 2, 2
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 281, 172
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 477, 417
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1

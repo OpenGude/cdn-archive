@@ -1,0 +1,300 @@
+
+gacha-result_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+car_item
+  rotate: true
+  xy: 1841, 870
+  size: 119, 76
+  orig: 119, 76
+  offset: 0, 0
+  index: -1
+common_BackGround
+  rotate: false
+  xy: 2005, 1606
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+common_japan
+  rotate: false
+  xy: 2, 207
+  size: 625, 853
+  orig: 625, 853
+  offset: 0, 0
+  index: -1
+common_seaside
+  rotate: false
+  xy: 2, 1062
+  size: 816, 984
+  orig: 816, 984
+  offset: 0, 0
+  index: -1
+dolly
+  rotate: true
+  xy: 1825, 1618
+  size: 428, 197
+  orig: 428, 197
+  offset: 0, 0
+  index: -1
+drop
+  rotate: false
+  xy: 772, 558
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+flag
+  rotate: false
+  xy: 974, 285
+  size: 171, 147
+  orig: 171, 147
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1522, 1117
+  size: 361, 397
+  orig: 396, 431
+  offset: 22, 20
+  index: -1
+m01_goldegg
+  rotate: false
+  xy: 1210, 619
+  size: 264, 305
+  orig: 264, 305
+  offset: 0, 0
+  index: -1
+m01_nomalegg
+  rotate: true
+  xy: 1176, 353
+  size: 264, 305
+  orig: 264, 305
+  offset: 0, 0
+  index: -1
+m01_paper_bule
+  rotate: false
+  xy: 908, 584
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+m01_paper_orenge
+  rotate: true
+  xy: 1459, 1117
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+m01_paper_pink
+  rotate: false
+  xy: 1483, 402
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+m01_paper_yellow
+  rotate: false
+  xy: 1885, 1124
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+m01_silveregg
+  rotate: false
+  xy: 1476, 810
+  size: 264, 305
+  orig: 264, 305
+  offset: 0, 0
+  index: -1
+m01_smoke
+  rotate: false
+  xy: 974, 434
+  size: 200, 198
+  orig: 200, 198
+  offset: 0, 0
+  index: -1
+m01_star
+  rotate: false
+  xy: 1885, 1165
+  size: 118, 111
+  orig: 118, 111
+  offset: 0, 0
+  index: -1
+m01_wind
+  rotate: false
+  xy: 889, 210
+  size: 83, 371
+  orig: 83, 371
+  offset: 0, 0
+  index: -1
+m02_Effect
+  rotate: false
+  xy: 820, 1288
+  size: 700, 758
+  orig: 700, 1200
+  offset: 0, 221
+  index: -1
+m02_center_wing
+  rotate: true
+  xy: 1371, 1079
+  size: 207, 86
+  orig: 207, 86
+  offset: 0, 0
+  index: -1
+m02_cloud
+  rotate: true
+  xy: 1522, 1516
+  size: 530, 301
+  orig: 530, 301
+  offset: 0, 0
+  index: -1
+m02_clouds
+  rotate: false
+  xy: 908, 634
+  size: 300, 290
+  orig: 300, 290
+  offset: 0, 0
+  index: -1
+m02_shine_egg
+  rotate: false
+  xy: 629, 234
+  size: 258, 316
+  orig: 258, 316
+  offset: 0, 0
+  index: -1
+m02_side_wing01
+  rotate: false
+  xy: 542, 2
+  size: 93, 65
+  orig: 93, 65
+  offset: 0, 0
+  index: -1
+m02_under_wing01
+  rotate: true
+  xy: 1885, 1278
+  size: 338, 118
+  orig: 338, 118
+  offset: 0, 0
+  index: -1
+m02_under_wing02
+  rotate: true
+  xy: 1742, 845
+  size: 270, 97
+  orig: 270, 97
+  offset: 0, 0
+  index: -1
+m02_up_wing01
+  rotate: false
+  xy: 2, 69
+  size: 599, 136
+  orig: 599, 136
+  offset: 0, 0
+  index: -1
+m02_up_wing02
+  rotate: true
+  xy: 772, 583
+  size: 477, 134
+  orig: 477, 134
+  offset: 0, 0
+  index: -1
+m02_up_wing03
+  rotate: false
+  xy: 908, 926
+  size: 457, 135
+  orig: 457, 135
+  offset: 0, 0
+  index: -1
+m02_up_wing04
+  rotate: true
+  xy: 629, 552
+  size: 508, 141
+  orig: 508, 141
+  offset: 0, 0
+  index: -1
+m02_up_wing_set
+  rotate: true
+  xy: 974, 211
+  size: 72, 132
+  orig: 72, 132
+  offset: 0, 0
+  index: -1
+m02_wind
+  rotate: false
+  xy: 2, 29
+  size: 538, 38
+  orig: 538, 38
+  offset: 0, 0
+  index: -1
+rod
+  rotate: true
+  xy: 1476, 776
+  size: 32, 245
+  orig: 32, 245
+  offset: 0, 0
+  index: -1
+ship_under
+  rotate: false
+  xy: 820, 1063
+  size: 549, 223
+  orig: 549, 223
+  offset: 0, 0
+  index: -1
+smoke1-1
+  rotate: false
+  xy: 1483, 549
+  size: 90, 101
+  orig: 90, 101
+  offset: 0, 0
+  index: -1
+smoke1-2
+  rotate: false
+  xy: 1476, 652
+  size: 128, 122
+  orig: 128, 122
+  offset: 0, 0
+  index: -1
+smoke1-3
+  rotate: false
+  xy: 1483, 451
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+tire
+  rotate: false
+  xy: 1606, 662
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+water1-1
+  rotate: true
+  xy: 1825, 1536
+  size: 80, 28
+  orig: 80, 28
+  offset: 0, 0
+  index: -1
+water1-2
+  rotate: true
+  xy: 1459, 1157
+  size: 129, 52
+  orig: 129, 52
+  offset: 0, 0
+  index: -1
+water1-3
+  rotate: true
+  xy: 1841, 991
+  size: 124, 62
+  orig: 124, 62
+  offset: 0, 0
+  index: -1
+wave
+  rotate: true
+  xy: 2024, 1914
+  size: 132, 12
+  orig: 132, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+gudetama-80-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 37
+  size: 413, 156
+  orig: 413, 156
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 2
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 417, 62
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+suji
+  rotate: false
+  xy: 417, 72
+  size: 318, 121
+  orig: 318, 121
+  offset: 0, 0
+  index: -1

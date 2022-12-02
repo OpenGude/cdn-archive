@@ -1,0 +1,111 @@
+
+gudetama-478-manually_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 381, 2
+  size: 212, 215
+  orig: 212, 215
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 752, 261
+  size: 380, 249
+  orig: 380, 249
+  offset: 0, 0
+  index: -1
+cup2
+  rotate: false
+  xy: 1134, 269
+  size: 372, 241
+  orig: 372, 241
+  offset: 0, 0
+  index: -1
+dotsL
+  rotate: false
+  xy: 2, 2
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1
+dotsR
+  rotate: false
+  xy: 1795, 219
+  size: 125, 113
+  orig: 125, 113
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: true
+  xy: 360, 183
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: false
+  xy: 598, 199
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+ice
+  rotate: false
+  xy: 381, 216
+  size: 369, 294
+  orig: 369, 294
+  offset: 0, 0
+  index: -1
+ice2
+  rotate: false
+  xy: 1508, 66
+  size: 285, 266
+  orig: 285, 266
+  offset: 0, 0
+  index: -1
+ice3
+  rotate: false
+  xy: 2, 208
+  size: 377, 302
+  orig: 377, 302
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 105
+  size: 356, 101
+  orig: 356, 101
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 2012, 456
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+straw
+  rotate: true
+  xy: 1508, 419
+  size: 91, 502
+  orig: 91, 502
+  offset: 0, 0
+  index: -1
+straw2
+  rotate: true
+  xy: 1508, 334
+  size: 83, 494
+  orig: 83, 494
+  offset: 0, 0
+  index: -1
+straw3
+  rotate: false
+  xy: 752, 233
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1

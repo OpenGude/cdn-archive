@@ -1,0 +1,160 @@
+
+gudetama-98-manually_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 228, 106
+  orig: 228, 106
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 784, 93
+  size: 214, 257
+  orig: 214, 257
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 884, 45
+  size: 46, 93
+  orig: 46, 93
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 2, 110
+  size: 400, 163
+  orig: 400, 163
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 390, 135
+  size: 375, 137
+  orig: 375, 137
+  offset: 0, 0
+  index: -1
+08
+  rotate: true
+  xy: 663, 14
+  size: 132, 72
+  orig: 132, 72
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 710, 148
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 1000, 311
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 737, 93
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 737, 3
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 737, 123
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 855, 8
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 232, 8
+  size: 101, 108
+  orig: 101, 108
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 855, 39
+  size: 27, 52
+  orig: 27, 52
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 390, 10
+  size: 184, 123
+  orig: 184, 123
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 710, 352
+  size: 302, 158
+  orig: 302, 158
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 710, 162
+  size: 188, 72
+  orig: 188, 72
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 576, 5
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 737, 28
+  size: 116, 63
+  orig: 116, 63
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 342, 13
+  size: 46, 96
+  orig: 46, 96
+  offset: 0, 0
+  index: -1
+23
+  rotate: true
+  xy: 529, 148
+  size: 362, 179
+  orig: 362, 179
+  offset: 0, 0
+  index: -1
+24
+  rotate: true
+  xy: 167, 111
+  size: 399, 221
+  orig: 399, 221
+  offset: 0, 0
+  index: -1

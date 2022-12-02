@@ -1,0 +1,83 @@
+
+gudetama-13-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hanbaodi
+  rotate: false
+  xy: 277, 124
+  size: 271, 119
+  orig: 271, 119
+  offset: 0, 0
+  index: -1
+hanbaodimian
+  rotate: false
+  xy: 2, 25
+  size: 258, 83
+  orig: 258, 83
+  offset: 0, 0
+  index: -1
+hanbaodiyinying
+  rotate: false
+  xy: 813, 125
+  size: 195, 34
+  orig: 195, 34
+  offset: 0, 0
+  index: -1
+hanbaozhongxing
+  rotate: false
+  xy: 550, 124
+  size: 261, 119
+  orig: 261, 119
+  offset: 0, 0
+  index: -1
+hanbaozhongxinyinying
+  rotate: false
+  xy: 2, 2
+  size: 90, 21
+  orig: 90, 21
+  offset: 0, 0
+  index: -1
+kou
+  rotate: false
+  xy: 433, 100
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+mianbaoshang
+  rotate: false
+  xy: 2, 110
+  size: 273, 133
+  orig: 273, 133
+  offset: 0, 0
+  index: -1
+shanggaiyinying
+  rotate: false
+  xy: 277, 71
+  size: 154, 51
+  orig: 154, 51
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 433, 83
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+zhima
+  rotate: false
+  xy: 813, 161
+  size: 203, 82
+  orig: 203, 82
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 94, 6
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1

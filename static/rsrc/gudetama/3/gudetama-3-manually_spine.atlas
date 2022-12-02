@@ -1,0 +1,125 @@
+
+gudetama-3-manually_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+danqing
+  rotate: false
+  xy: 334, 354
+  size: 415, 154
+  orig: 415, 154
+  offset: 0, 0
+  index: -1
+gaoguang1
+  rotate: true
+  xy: 956, 313
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+gaoguang2
+  rotate: false
+  xy: 521, 183
+  size: 141, 169
+  orig: 141, 169
+  offset: 0, 0
+  index: -1
+jiaoyan1
+  rotate: true
+  xy: 664, 207
+  size: 145, 88
+  orig: 145, 88
+  offset: 0, 0
+  index: -1
+jiaoyan2
+  rotate: false
+  xy: 754, 279
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 334, 128
+  size: 185, 224
+  orig: 185, 224
+  offset: 0, 0
+  index: -1
+wuzi1
+  rotate: false
+  xy: 751, 370
+  size: 243, 138
+  orig: 243, 138
+  offset: 0, 0
+  index: -1
+wuzi2
+  rotate: false
+  xy: 334, 14
+  size: 165, 112
+  orig: 165, 112
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 2, 38
+  size: 330, 470
+  orig: 330, 470
+  offset: 0, 0
+  index: -1
+yinying1
+  rotate: true
+  xy: 521, 154
+  size: 27, 96
+  orig: 27, 96
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 2, 2
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 893, 313
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: true
+  xy: 501, 99
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: true
+  xy: 996, 462
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 831, 243
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 754, 229
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 996, 444
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1

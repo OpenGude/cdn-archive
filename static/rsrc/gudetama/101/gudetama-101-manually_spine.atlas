@@ -1,0 +1,286 @@
+
+gudetama-101-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 751, 35
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 911, 53
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 42
+  size: 299, 212
+  orig: 299, 212
+  offset: 0, 0
+  index: -1
+boll
+  rotate: false
+  xy: 1006, 123
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+boll2
+  rotate: true
+  xy: 2033, 235
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 1214, 2
+  size: 109, 126
+  orig: 109, 126
+  offset: 0, 0
+  index: -1
+cloth10
+  rotate: false
+  xy: 817, 46
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+cloth11
+  rotate: false
+  xy: 1884, 143
+  size: 147, 111
+  orig: 147, 111
+  offset: 0, 0
+  index: -1
+cloth2
+  rotate: false
+  xy: 824, 99
+  size: 180, 49
+  orig: 180, 49
+  offset: 0, 0
+  index: -1
+cloth3
+  rotate: true
+  xy: 303, 69
+  size: 57, 211
+  orig: 57, 211
+  offset: 0, 0
+  index: -1
+cloth4
+  rotate: true
+  xy: 1547, 166
+  size: 88, 181
+  orig: 88, 181
+  offset: 0, 0
+  index: -1
+cloth5
+  rotate: true
+  xy: 1214, 113
+  size: 141, 156
+  orig: 141, 156
+  offset: 0, 0
+  index: -1
+cloth7
+  rotate: true
+  xy: 1039, 100
+  size: 154, 173
+  orig: 154, 173
+  offset: 0, 0
+  index: -1
+cloth8
+  rotate: true
+  xy: 824, 150
+  size: 104, 213
+  orig: 104, 213
+  offset: 0, 0
+  index: -1
+cloth9
+  rotate: false
+  xy: 1372, 148
+  size: 173, 106
+  orig: 173, 106
+  offset: 0, 0
+  index: -1
+de_center
+  rotate: false
+  xy: 751, 9
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+de_left
+  rotate: false
+  xy: 1434, 107
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+de_right
+  rotate: false
+  xy: 238, 15
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 1515, 130
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 977, 75
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+flag
+  rotate: true
+  xy: 303, 128
+  size: 126, 321
+  orig: 126, 321
+  offset: 0, 0
+  index: -1
+flag2
+  rotate: false
+  xy: 158, 2
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+flag3
+  rotate: true
+  xy: 53, 2
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+flag4
+  rotate: true
+  xy: 88, 2
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+flag5
+  rotate: true
+  xy: 123, 2
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+flag6
+  rotate: true
+  xy: 626, 116
+  size: 138, 196
+  orig: 138, 196
+  offset: 0, 0
+  index: -1
+gu_center
+  rotate: true
+  xy: 1598, 149
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+gu_left
+  rotate: true
+  xy: 192, 6
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+gu_right
+  rotate: false
+  xy: 1342, 86
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 328, 57
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 1730, 165
+  size: 152, 89
+  orig: 152, 89
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 626, 8
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1547, 148
+  size: 49, 16
+  orig: 49, 16
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1372, 101
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 303, 44
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 516, 8
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+sword2
+  rotate: false
+  xy: 2, 2
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+sword3
+  rotate: false
+  xy: 1476, 111
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+wrinkles
+  rotate: true
+  xy: 1359, 92
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+wrinkles2
+  rotate: false
+  xy: 1006, 105
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1

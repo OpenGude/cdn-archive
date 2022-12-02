@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="shop0.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="shop0@balloon01"	x="572"	y="595"	width="39"	height="30"/>
+	<SubTexture name="shop0@balloon02"	x="221"	y="988"	width="52"	height="28"/>
+	<SubTexture name="shop0@balloon03"	x="920"	y="0"	width="45"	height="45"/>
+	<SubTexture name="shop0@balloon04"	x="401"	y="979"	width="52"	height="28"/>
+	<SubTexture name="shop0@banner1"	x="541"	y="315"	width="438"	height="279"/>
+	<SubTexture name="shop0@banner2"	x="878"	y="595"	width="438"	height="318"/>
+	<SubTexture name="shop0@banner3"	x="980"	y="0"	width="438"	height="318"/>
+	<SubTexture name="shop0@banner4"	x="1317"	y="319"	width="438"	height="318"/>
+	<SubTexture name="shop0@bg01"	x="440"	y="544"	width="81"	height="81"/>
+	<SubTexture name="shop0@btn01"	x="439"	y="640"	width="438"	height="112"/>
+	<SubTexture name="shop0@btn02"	x="0"	y="752"	width="438"	height="112"/>
+	<SubTexture name="shop0@btn03"	x="0"	y="865"	width="438"	height="112"/>
+	<SubTexture name="shop0@btn04"	x="1419"	y="0"	width="438"	height="112"/>
+	<SubTexture name="shop0@btn05"	x="439"	y="753"	width="438"	height="112"/>
+	<SubTexture name="shop0@btn06"	x="1317"	y="864"	width="438"	height="112"/>
+	<SubTexture name="shop0@btn07"	x="1317"	y="751"	width="438"	height="112"/>
+	<SubTexture name="shop0@btn08"	x="439"	y="866"	width="438"	height="112"/>
+	<SubTexture name="shop0@btn09"	x="1317"	y="638"	width="438"	height="112"/>
+	<SubTexture name="shop0@btn_eggbuy"	x="980"	y="393"	width="280"	height="89"/>
+	<SubTexture name="shop0@btn_eggfree01"	x="980"	y="483"	width="280"	height="89"/>
+	<SubTexture name="shop0@btn_eggfree02"	x="878"	y="914"	width="438"	height="100"/>
+	<SubTexture name="shop0@btn_gp"	x="0"	y="640"	width="438"	height="111"/>
+	<SubTexture name="shop0@btn_green_s"	x="443"	y="474"	width="76"	height="59"/>
+	<SubTexture name="shop0@btn_orange"	x="561"	y="74"	width="118"	height="59"/>
+	<SubTexture name="shop0@egg00"	x="1756"	y="571"	width="195"	height="195"/>
+	<SubTexture name="shop0@egg01"	x="750"	y="74"	width="65"	height="65"/>
+	<SubTexture name="shop0@egg02"	x="838"	y="219"	width="65"	height="65"/>
+	<SubTexture name="shop0@egg03"	x="882"	y="66"	width="65"	height="65"/>
+	<SubTexture name="shop0@egg04"	x="854"	y="0"	width="65"	height="65"/>
+	<SubTexture name="shop0@egg05"	x="875"	y="140"	width="65"	height="65"/>
+	<SubTexture name="shop0@egg06"	x="904"	y="206"	width="65"	height="65"/>
+	<SubTexture name="shop0@egg07"	x="816"	y="74"	width="65"	height="65"/>
+	<SubTexture name="shop0@finish"	x="443"	y="396"	width="77"	height="77"/>
+	<SubTexture name="shop0@frame"	x="1756"	y="358"	width="216"	height="212"/>
+	<SubTexture name="shop0@frame_2"	x="0"	y="396"	width="442"	height="147"/>
+	<SubTexture name="shop0@frame_3"	x="1756"	y="113"	width="218"	height="244"/>
+	<SubTexture name="shop0@get"	x="1756"	y="867"	width="193"	height="99"/>
+	<SubTexture name="shop0@itemNum"	x="283"	y="979"	width="59"	height="37"/>
+	<SubTexture name="shop0@line_dot"	x="221"	y="979"	width="61"	height="8"/>
+	<SubTexture name="shop0@mat01"	x="680"	y="74"	width="69"	height="46"/>
+	<SubTexture name="shop0@mat02_1"	x="1261"	y="443"	width="41"	height="90"/>
+	<SubTexture name="shop0@mat02_2"	x="1858"	y="0"	width="184"	height="90"/>
+	<SubTexture name="shop0@mat03"	x="0"	y="544"	width="439"	height="95"/>
+	<SubTexture name="shop0@mat04"	x="555"	y="979"	width="47"	height="34"/>
+	<SubTexture name="shop0@mat_gpnum"	x="343"	y="979"	width="57"	height="36"/>
+	<SubTexture name="shop0@mat_item"	x="454"	y="979"	width="50"	height="30"/>
+	<SubTexture name="shop0@ribbon"	x="505"	y="979"	width="49"	height="27"/>
+	<SubTexture name="shop0@ribbon2"	x="1261"	y="393"	width="44"	height="49"/>
+	<SubTexture name="shop0@ribbon_pink"	x="522"	y="595"	width="49"	height="27"/>
+	<SubTexture name="shop0@rogo_ARstamp"	x="1419"	y="113"	width="263"	height="73"/>
+	<SubTexture name="shop0@rogo_avatar"	x="545"	y="145"	width="329"	height="73"/>
+	<SubTexture name="shop0@rogo_benri"	x="561"	y="0"	width="292"	height="73"/>
+	<SubTexture name="shop0@rogo_cupgude"	x="545"	y="219"	width="292"	height="73"/>
+	<SubTexture name="shop0@rogo_kitchenitem"	x="980"	y="319"	width="288"	height="73"/>
+	<SubTexture name="shop0@rogo_moyougae"	x="1419"	y="187"	width="204"	height="73"/>
+	<SubTexture name="shop0@sale"	x="0"	y="978"	width="124"	height="45"/>
+	<SubTexture name="shop0@sale_s"	x="125"	y="978"	width="95"	height="40"/>
+	<SubTexture name="shop0@shortage"	x="1756"	y="767"	width="193"	height="99"/>
+	<SubTexture name="shop0@title01"	x="0"	y="0"	width="560"	height="144"/>
+	<SubTexture name="shop0@title02"	x="0"	y="315"	width="540"	height="80"/>
+	<SubTexture name="shop0@title03"	x="0"	y="230"	width="544"	height="84"/>
+	<SubTexture name="shop0@title04"	x="0"	y="145"	width="544"	height="84"/>
+</TextureAtlas>

@@ -1,0 +1,132 @@
+
+gudetama-108-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 209, 56
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 885, 207
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 411, 66
+  size: 183, 208
+  orig: 183, 208
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 34
+  size: 120, 63
+  orig: 120, 63
+  offset: 0, 0
+  index: -1
+egg_light
+  rotate: false
+  xy: 277, 59
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+egg_shadow
+  rotate: true
+  xy: 735, 136
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 621, 66
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 327, 81
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+l_ball
+  rotate: false
+  xy: 621, 124
+  size: 112, 125
+  orig: 112, 125
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 735, 198
+  size: 89, 51
+  orig: 89, 51
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 124, 50
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 2, 2
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+light_line
+  rotate: true
+  xy: 826, 193
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 950, 230
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+mouth_line
+  rotate: false
+  xy: 54, 17
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+white_egg
+  rotate: false
+  xy: 2, 99
+  size: 407, 150
+  orig: 407, 150
+  offset: 0, 0
+  index: -1
+white_shadow
+  rotate: false
+  xy: 735, 159
+  size: 88, 37
+  orig: 88, 37
+  offset: 0, 0
+  index: -1
+white_shadow2
+  rotate: false
+  xy: 621, 79
+  size: 111, 43
+  orig: 111, 43
+  offset: 0, 0
+  index: -1

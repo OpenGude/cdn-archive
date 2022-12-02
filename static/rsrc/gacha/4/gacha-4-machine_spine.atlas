@@ -1,0 +1,104 @@
+
+gacha-4-machine_spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+capsule
+  rotate: false
+  xy: 2, 606
+  size: 391, 410
+  orig: 700, 1200
+  offset: 155, 494
+  index: -1
+eggs
+  rotate: false
+  xy: 395, 712
+  size: 352, 304
+  orig: 700, 1200
+  offset: 179, 481
+  index: -1
+exclamationＭark
+  rotate: true
+  xy: 544, 668
+  size: 42, 101
+  orig: 42, 101
+  offset: 0, 0
+  index: -1
+goldEgg
+  rotate: false
+  xy: 749, 731
+  size: 120, 143
+  orig: 120, 143
+  offset: 0, 0
+  index: -1
+milk_PonBlenderCap
+  rotate: false
+  xy: 749, 876
+  size: 236, 140
+  orig: 700, 1200
+  offset: 232, 831
+  index: -1
+milk_PonBlenderFront
+  rotate: false
+  xy: 2, 309
+  size: 369, 295
+  orig: 700, 1200
+  offset: 166, 219
+  index: -1
+milk_PonHandle
+  rotate: false
+  xy: 2, 69
+  size: 152, 147
+  orig: 700, 1200
+  offset: 274, 291
+  index: -1
+mint1
+  rotate: false
+  xy: 395, 617
+  size: 147, 93
+  orig: 147, 93
+  offset: 0, 0
+  index: -1
+mint2
+  rotate: false
+  xy: 2, 2
+  size: 104, 65
+  orig: 104, 65
+  offset: 0, 0
+  index: -1
+mint3
+  rotate: false
+  xy: 378, 163
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+n
+  rotate: false
+  xy: 284, 127
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+po
+  rotate: false
+  xy: 871, 781
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+tapText
+  rotate: false
+  xy: 2, 218
+  size: 492, 89
+  orig: 700, 1200
+  offset: 103, 962
+  index: -1
+whiteEgg
+  rotate: false
+  xy: 156, 81
+  size: 126, 135
+  orig: 126, 135
+  offset: 0, 0
+  index: -1

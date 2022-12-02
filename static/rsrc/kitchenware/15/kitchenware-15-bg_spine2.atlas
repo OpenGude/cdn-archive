@@ -1,0 +1,90 @@
+
+kitchenware-15-bg_spine2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+balloon
+  rotate: false
+  xy: 493, 122
+  size: 220, 212
+  orig: 220, 212
+  offset: 0, 0
+  index: -1
+cloud01
+  rotate: false
+  xy: 2, 98
+  size: 489, 393
+  orig: 489, 393
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 265, 36
+  size: 137, 60
+  orig: 700, 1200
+  offset: 280, 389
+  index: -1
+flycover_light
+  rotate: false
+  xy: 2, 2
+  size: 261, 94
+  orig: 261, 94
+  offset: 0, 0
+  index: -1
+kitchen0@frycover
+  rotate: false
+  xy: 1100, 366
+  size: 261, 125
+  orig: 261, 125
+  offset: 0, 0
+  index: -1
+kitchen0@fryingpan1
+  rotate: false
+  xy: 827, 365
+  size: 271, 126
+  orig: 271, 126
+  offset: 0, 0
+  index: -1
+kitchen0@fryingpan2_4
+  rotate: false
+  xy: 493, 336
+  size: 332, 155
+  orig: 332, 155
+  offset: 0, 0
+  index: -1
+moja1
+  rotate: true
+  xy: 1757, 306
+  size: 185, 189
+  orig: 256, 256
+  offset: 32, 29
+  index: -1
+moja2
+  rotate: false
+  xy: 715, 146
+  size: 188, 188
+  orig: 256, 256
+  offset: 29, 34
+  index: -1
+moja3
+  rotate: false
+  xy: 1363, 303
+  size: 196, 188
+  orig: 256, 256
+  offset: 27, 32
+  index: -1
+moja4
+  rotate: true
+  xy: 1561, 308
+  size: 183, 194
+  orig: 256, 256
+  offset: 32, 32
+  index: -1
+test00@tamago
+  rotate: false
+  xy: 905, 194
+  size: 140, 169
+  orig: 160, 190
+  offset: 10, 10
+  index: -1

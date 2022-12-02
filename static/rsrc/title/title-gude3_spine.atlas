@@ -1,0 +1,13 @@
+
+title-gude3_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/title0@gudetama4
+  rotate: false
+  xy: 2, 2
+  size: 597, 505
+  orig: 597, 505
+  offset: 0, 0
+  index: -1

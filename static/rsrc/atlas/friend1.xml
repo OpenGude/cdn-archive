@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="friend1.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="friend1@arrow"	x="654"	y="215"	width="61"	height="61"/>
+	<SubTexture name="friend1@balloon_item0"	x="512"	y="81"	width="70"	height="59"/>
+	<SubTexture name="friend1@balloon_item1"	x="475"	y="436"	width="70"	height="59"/>
+	<SubTexture name="friend1@balloon_item2"	x="488"	y="321"	width="70"	height="59"/>
+	<SubTexture name="friend1@balloon_item3"	x="475"	y="436"	width="70"	height="59"/>
+	<SubTexture name="friend1@balloon_item4"	x="583"	y="60"	width="70"	height="59"/>
+	<SubTexture name="friend1@balloon_item5"	x="475"	y="436"	width="70"	height="59"/>
+	<SubTexture name="friend1@balloon_item6"	x="546"	y="430"	width="70"	height="59"/>
+	<SubTexture name="friend1@balloon_item7"	x="475"	y="436"	width="70"	height="59"/>
+	<SubTexture name="friend1@balloon_item8"	x="541"	y="0"	width="70"	height="59"/>
+	<SubTexture name="friend1@balloon_l"	x="218"	y="159"	width="197"	height="52"/>
+	<SubTexture name="friend1@balloon_s"	x="218"	y="212"	width="126"	height="51"/>
+	<SubTexture name="friend1@balloon_shell"	x="512"	y="81"	width="70"	height="59"/>
+	<SubTexture name="friend1@benri"	x="512"	y="222"	width="70"	height="59"/>
+	<SubTexture name="friend1@bg01"	x="617"	y="399"	width="68"	height="68"/>
+	<SubTexture name="friend1@btn_cancel_s"	x="612"	y="0"	width="69"	height="43"/>
+	<SubTexture name="friend1@btn_cooperation"	x="588"	y="120"	width="69"	height="43"/>
+	<SubTexture name="friend1@btn_egg"	x="0"	y="363"	width="217"	height="101"/>
+	<SubTexture name="friend1@btn_fb_off"	x="345"	y="212"	width="89"	height="111"/>
+	<SubTexture name="friend1@btn_fb_on"	x="308"	y="324"	width="89"	height="111"/>
+	<SubTexture name="friend1@btn_gp"	x="0"	y="261"	width="217"	height="101"/>
+	<SubTexture name="friend1@btn_gray_s"	x="583"	y="189"	width="70"	height="48"/>
+	<SubTexture name="friend1@btn_green_s"	x="435"	y="261"	width="76"	height="59"/>
+	<SubTexture name="friend1@btn_invite"	x="0"	y="81"	width="438"	height="77"/>
+	<SubTexture name="friend1@btn_orange_s"	x="488"	y="381"	width="70"	height="48"/>
+	<SubTexture name="friend1@btn_sort"	x="559"	y="342"	width="70"	height="56"/>
+	<SubTexture name="friend1@btn_tw_off"	x="398"	y="324"	width="89"	height="111"/>
+	<SubTexture name="friend1@btn_tw_on"	x="218"	y="324"	width="89"	height="111"/>
+	<SubTexture name="friend1@btn_update"	x="583"	y="238"	width="69"	height="43"/>
+	<SubTexture name="friend1@btn_video"	x="0"	y="159"	width="217"	height="101"/>
+	<SubTexture name="friend1@heart"	x="683"	y="468"	width="43"	height="39"/>
+	<SubTexture name="friend1@heart_full"	x="682"	y="0"	width="43"	height="39"/>
+	<SubTexture name="friend1@icon"	x="654"	y="164"	width="64"	height="50"/>
+	<SubTexture name="friend1@line_dot"	x="0"	y="499"	width="33"	height="8"/>
+	<SubTexture name="friend1@mat01"	x="617"	y="468"	width="65"	height="37"/>
+	<SubTexture name="friend1@mat01_mini"	x="439"	y="129"	width="57"	height="27"/>
+	<SubTexture name="friend1@mat02"	x="435"	y="222"	width="76"	height="38"/>
+	<SubTexture name="friend1@mat_cancel"	x="391"	y="436"	width="83"	height="63"/>
+	<SubTexture name="friend1@mat_change"	x="517"	y="141"	width="70"	height="47"/>
+	<SubTexture name="friend1@mat_cover"	x="439"	y="81"	width="72"	height="47"/>
+	<SubTexture name="friend1@mat_fb"	x="719"	y="139"	width="35"	height="95"/>
+	<SubTexture name="friend1@mat_gray"	x="654"	y="44"	width="60"	height="50"/>
+	<SubTexture name="friend1@mat_id01"	x="306"	y="436"	width="84"	height="49"/>
+	<SubTexture name="friend1@mat_id02"	x="658"	y="95"	width="55"	height="38"/>
+	<SubTexture name="friend1@mat_level"	x="517"	y="189"	width="49"	height="31"/>
+	<SubTexture name="friend1@mat_number"	x="714"	y="95"	width="38"	height="43"/>
+	<SubTexture name="friend1@mat_ocher"	x="512"	y="282"	width="43"	height="38"/>
+	<SubTexture name="friend1@mat_ocher2"	x="306"	y="486"	width="23"	height="23"/>
+	<SubTexture name="friend1@mat_ocher3"	x="630"	y="334"	width="65"	height="44"/>
+	<SubTexture name="friend1@mat_orange"	x="630"	y="282"	width="66"	height="51"/>
+	<SubTexture name="friend1@mat_orange_s"	x="218"	y="436"	width="87"	height="58"/>
+	<SubTexture name="friend1@mat_pink"	x="696"	y="334"	width="43"	height="38"/>
+	<SubTexture name="friend1@mat_room"	x="435"	y="159"	width="81"	height="62"/>
+	<SubTexture name="friend1@mat_room_s"	x="166"	y="465"	width="51"	height="37"/>
+	<SubTexture name="friend1@mat_search"	x="218"	y="264"	width="90"	height="59"/>
+	<SubTexture name="friend1@mat_sort"	x="686"	y="379"	width="48"	height="51"/>
+	<SubTexture name="friend1@mat_tw"	x="735"	y="373"	width="35"	height="95"/>
+	<SubTexture name="friend1@mat_white"	x="697"	y="277"	width="38"	height="41"/>
+	<SubTexture name="friend1@rogo_friendnum"	x="0"	y="465"	width="165"	height="33"/>
+	<SubTexture name="friend1@tap"	x="559"	y="282"	width="70"	height="59"/>
+	<SubTexture name="friend1@title"	x="0"	y="0"	width="540"	height="80"/>
+</TextureAtlas>

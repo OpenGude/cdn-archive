@@ -1,0 +1,174 @@
+
+cupgude-14-spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud01
+  rotate: false
+  xy: 849, 617
+  size: 489, 393
+  orig: 489, 393
+  offset: 0, 0
+  index: -1
+cup_omote
+  rotate: false
+  xy: 783, 245
+  size: 405, 113
+  orig: 405, 113
+  offset: 0, 0
+  index: -1
+cup_shadow
+  rotate: false
+  xy: 1263, 524
+  size: 339, 88
+  orig: 339, 88
+  offset: 0, 0
+  index: -1
+cup_ura
+  rotate: false
+  xy: 1340, 847
+  size: 406, 163
+  orig: 406, 163
+  offset: 0, 0
+  index: -1
+egg_light
+  rotate: false
+  xy: 1754, 625
+  size: 194, 223
+  orig: 194, 223
+  offset: 0, 0
+  index: -1
+futa00
+  rotate: true
+  xy: 461, 92
+  size: 407, 166
+  orig: 407, 166
+  offset: 0, 0
+  index: -1
+futa02
+  rotate: true
+  xy: 629, 87
+  size: 412, 152
+  orig: 412, 152
+  offset: 0, 0
+  index: -1
+futa03
+  rotate: false
+  xy: 1340, 707
+  size: 412, 138
+  orig: 412, 138
+  offset: 0, 0
+  index: -1
+futa04
+  rotate: false
+  xy: 849, 500
+  size: 412, 115
+  orig: 412, 115
+  offset: 0, 0
+  index: -1
+futa05
+  rotate: false
+  xy: 1340, 614
+  size: 412, 91
+  orig: 412, 91
+  offset: 0, 0
+  index: -1
+kettle
+  rotate: false
+  xy: 2, 60
+  size: 457, 439
+  orig: 457, 439
+  offset: 0, 0
+  index: -1
+kettle_ura
+  rotate: true
+  xy: 2019, 945
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 501
+  size: 845, 509
+  orig: 845, 509
+  offset: 0, 0
+  index: -1
+parts00
+  rotate: false
+  xy: 1171, 473
+  size: 82, 25
+  orig: 82, 25
+  offset: 0, 0
+  index: -1
+parts01
+  rotate: false
+  xy: 461, 62
+  size: 85, 28
+  orig: 85, 28
+  offset: 0, 0
+  index: -1
+parts02
+  rotate: false
+  xy: 2, 14
+  size: 407, 44
+  orig: 407, 44
+  offset: 0, 0
+  index: -1
+parts03
+  rotate: false
+  xy: 783, 71
+  size: 407, 77
+  orig: 407, 77
+  offset: 0, 0
+  index: -1
+parts04
+  rotate: false
+  xy: 783, 150
+  size: 395, 93
+  orig: 395, 93
+  offset: 0, 0
+  index: -1
+parts05
+  rotate: false
+  xy: 783, 360
+  size: 386, 138
+  orig: 386, 138
+  offset: 0, 0
+  index: -1
+test00@tamago
+  rotate: true
+  xy: 1748, 850
+  size: 160, 190
+  orig: 160, 190
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 1263, 396
+  size: 314, 126
+  orig: 314, 126
+  offset: 0, 0
+  index: -1
+water01
+  rotate: false
+  xy: 1940, 954
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+water02
+  rotate: true
+  xy: 1754, 571
+  size: 52, 205
+  orig: 52, 205
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 2, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

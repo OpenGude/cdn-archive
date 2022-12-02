@@ -1,0 +1,90 @@
+
+kitchenware-20-bg_spine2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+balloon
+  rotate: false
+  xy: 1462, 410
+  size: 220, 212
+  orig: 220, 212
+  offset: 0, 0
+  index: -1
+cloud01
+  rotate: false
+  xy: 1204, 624
+  size: 489, 393
+  orig: 489, 393
+  offset: 0, 0
+  index: -1
+fire
+  rotate: true
+  xy: 2, 317
+  size: 700, 1200
+  orig: 700, 1200
+  offset: 0, 0
+  index: -1
+kitchen0@pot1_5
+  rotate: false
+  xy: 831, 140
+  size: 313, 175
+  orig: 313, 175
+  offset: 0, 0
+  index: -1
+kitchen0@pot2_5
+  rotate: false
+  xy: 518, 117
+  size: 311, 198
+  orig: 311, 198
+  offset: 0, 0
+  index: -1
+kitchen0@potcover_5
+  rotate: false
+  xy: 1695, 635
+  size: 238, 124
+  orig: 238, 124
+  offset: 0, 0
+  index: -1
+moja1
+  rotate: false
+  xy: 2, 59
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+moja2
+  rotate: false
+  xy: 1204, 366
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+moja3
+  rotate: false
+  xy: 1695, 761
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+moja4
+  rotate: false
+  xy: 260, 59
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+test00@tamago
+  rotate: true
+  xy: 1204, 204
+  size: 160, 190
+  orig: 160, 190
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 2
+  size: 212, 55
+  orig: 212, 55
+  offset: 0, 0
+  index: -1

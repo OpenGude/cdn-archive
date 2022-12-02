@@ -1,0 +1,146 @@
+
+gudetama-147-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body01
+  rotate: false
+  xy: 2, 12
+  size: 214, 242
+  orig: 214, 242
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 434, 20
+  size: 214, 234
+  orig: 214, 234
+  offset: 0, 0
+  index: -1
+body02_op
+  rotate: false
+  xy: 650, 70
+  size: 214, 78
+  orig: 214, 78
+  offset: 0, 0
+  index: -1
+body03
+  rotate: false
+  xy: 218, 12
+  size: 214, 242
+  orig: 214, 242
+  offset: 0, 0
+  index: -1
+body03_op
+  rotate: false
+  xy: 650, 150
+  size: 214, 104
+  orig: 214, 104
+  offset: 0, 0
+  index: -1
+eye02L
+  rotate: false
+  xy: 1002, 107
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+eye02R
+  rotate: false
+  xy: 1191, 233
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+eye03L
+  rotate: false
+  xy: 650, 2
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+eye03R
+  rotate: false
+  xy: 686, 2
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+eyesL
+  rotate: false
+  xy: 1076, 190
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+eyesR
+  rotate: true
+  xy: 736, 27
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+guan
+  rotate: true
+  xy: 650, 23
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: true
+  xy: 802, 34
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+hand02
+  rotate: true
+  xy: 1119, 188
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 1119, 226
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 926, 99
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 866, 77
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+sth
+  rotate: false
+  xy: 1076, 130
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+wing_l
+  rotate: false
+  xy: 866, 130
+  size: 103, 124
+  orig: 103, 124
+  offset: 0, 0
+  index: -1
+wing_r
+  rotate: false
+  xy: 971, 130
+  size: 103, 124
+  orig: 103, 124
+  offset: 0, 0
+  index: -1

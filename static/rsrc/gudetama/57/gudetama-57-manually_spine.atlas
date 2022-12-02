@@ -1,0 +1,83 @@
+
+gudetama-57-manually_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian
+  rotate: true
+  xy: 434, 507
+  size: 297, 102
+  orig: 297, 102
+  offset: 0, 0
+  index: -1
+mogu_01
+  rotate: false
+  xy: 1373, 1771
+  size: 570, 215
+  orig: 570, 215
+  offset: 0, 0
+  index: -1
+mogu_02
+  rotate: false
+  xy: 597, 1091
+  size: 806, 377
+  orig: 806, 377
+  offset: 0, 0
+  index: -1
+mogu_03
+  rotate: true
+  xy: 2, 2
+  size: 802, 430
+  orig: 802, 430
+  offset: 0, 0
+  index: -1
+shou_l
+  rotate: true
+  xy: 1586, 1641
+  size: 128, 201
+  orig: 128, 201
+  offset: 0, 0
+  index: -1
+shou_r
+  rotate: true
+  xy: 1005, 961
+  size: 128, 201
+  orig: 128, 201
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 2, 1470
+  size: 1369, 516
+  orig: 1369, 516
+  offset: 0, 0
+  index: -1
+ti_01
+  rotate: false
+  xy: 2, 806
+  size: 593, 662
+  orig: 593, 662
+  offset: 0, 0
+  index: -1
+ti_02
+  rotate: false
+  xy: 803, 952
+  size: 200, 137
+  orig: 200, 137
+  offset: 0, 0
+  index: -1
+tui_l
+  rotate: false
+  xy: 1373, 1569
+  size: 211, 200
+  orig: 211, 200
+  offset: 0, 0
+  index: -1
+tui_r
+  rotate: false
+  xy: 597, 816
+  size: 204, 273
+  orig: 204, 273
+  offset: 0, 0
+  index: -1

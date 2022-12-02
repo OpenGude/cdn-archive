@@ -1,0 +1,153 @@
+
+gudetama-2-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 707, 144
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 336, 49
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 13
+  size: 186, 132
+  orig: 186, 132
+  offset: 0, 0
+  index: -1
+body_light
+  rotate: false
+  xy: 616, 122
+  size: 54, 19
+  orig: 54, 19
+  offset: 0, 0
+  index: -1
+body_shadow
+  rotate: false
+  xy: 190, 27
+  size: 64, 12
+  orig: 64, 12
+  offset: 0, 0
+  index: -1
+egg_body
+  rotate: false
+  xy: 2, 147
+  size: 333, 105
+  orig: 333, 105
+  offset: 0, 0
+  index: -1
+egg_light
+  rotate: false
+  xy: 190, 41
+  size: 88, 57
+  orig: 88, 57
+  offset: 0, 0
+  index: -1
+egg_shadow
+  rotate: false
+  xy: 190, 100
+  size: 130, 45
+  orig: 130, 45
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 672, 126
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 388, 65
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 526, 114
+  size: 88, 27
+  orig: 88, 27
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 280, 42
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+mayu_l
+  rotate: true
+  xy: 322, 138
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+mayu_r
+  rotate: false
+  xy: 2, 2
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+mouth_01
+  rotate: false
+  xy: 388, 81
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+mouth_02
+  rotate: false
+  xy: 772, 155
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+moya_01
+  rotate: false
+  xy: 950, 179
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+moya_02
+  rotate: false
+  xy: 866, 177
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+moya_03
+  rotate: true
+  xy: 337, 103
+  size: 149, 187
+  orig: 149, 187
+  offset: 0, 0
+  index: -1
+moya_04
+  rotate: true
+  xy: 707, 177
+  size: 75, 157
+  orig: 75, 157
+  offset: 0, 0
+  index: -1
+moya_05
+  rotate: true
+  xy: 526, 143
+  size: 109, 179
+  orig: 109, 179
+  offset: 0, 0
+  index: -1

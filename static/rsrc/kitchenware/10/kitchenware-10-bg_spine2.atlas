@@ -1,0 +1,62 @@
+
+kitchenware-10-bg_spine2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+balloon
+  rotate: true
+  xy: 1831, 269
+  size: 220, 212
+  orig: 220, 212
+  offset: 0, 0
+  index: -1
+cloud01
+  rotate: false
+  xy: 2, 96
+  size: 489, 393
+  orig: 489, 393
+  offset: 0, 0
+  index: -1
+cloud02
+  rotate: false
+  xy: 493, 260
+  size: 562, 229
+  orig: 562, 229
+  offset: 0, 0
+  index: -1
+moja1
+  rotate: false
+  xy: 1057, 233
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+moja2
+  rotate: false
+  xy: 1315, 233
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+moja3
+  rotate: false
+  xy: 1573, 233
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+moja4
+  rotate: false
+  xy: 493, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+test00@tamago
+  rotate: false
+  xy: 751, 68
+  size: 160, 190
+  orig: 160, 190
+  offset: 0, 0
+  index: -1

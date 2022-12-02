@@ -1,0 +1,62 @@
+
+gudetama-46-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03
+  rotate: true
+  xy: 2, 2
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 321, 67
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 614, 127
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 321, 54
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 766, 234
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 614, 143
+  size: 150, 103
+  orig: 150, 103
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 321, 114
+  size: 291, 132
+  orig: 291, 132
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 25
+  size: 317, 221
+  orig: 317, 221
+  offset: 0, 0
+  index: -1

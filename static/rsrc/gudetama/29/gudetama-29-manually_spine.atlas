@@ -1,0 +1,153 @@
+
+gudetama-29-manually_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 999, 248
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 999, 297
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 635, 225
+  size: 224, 123
+  orig: 224, 123
+  offset: 0, 0
+  index: -1
+broccoli
+  rotate: false
+  xy: 1477, 303
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+broccoli2
+  rotate: false
+  xy: 1575, 344
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+carrot
+  rotate: false
+  xy: 1347, 322
+  size: 128, 77
+  orig: 128, 77
+  offset: 0, 0
+  index: -1
+corn
+  rotate: false
+  xy: 861, 247
+  size: 136, 101
+  orig: 136, 101
+  offset: 0, 0
+  index: -1
+dish
+  rotate: false
+  xy: 2, 250
+  size: 631, 260
+  orig: 631, 260
+  offset: 0, 0
+  index: -1
+dish2
+  rotate: false
+  xy: 2, 2
+  size: 593, 246
+  orig: 593, 246
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 1629, 324
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: true
+  xy: 616, 236
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+hamburger
+  rotate: false
+  xy: 1040, 326
+  size: 305, 184
+  orig: 305, 184
+  offset: 0, 0
+  index: -1
+hamburger2
+  rotate: false
+  xy: 1647, 382
+  size: 271, 128
+  orig: 271, 128
+  offset: 0, 0
+  index: -1
+hamburger3
+  rotate: true
+  xy: 597, 150
+  size: 98, 17
+  orig: 98, 17
+  offset: 0, 0
+  index: -1
+hamburger4
+  rotate: true
+  xy: 1025, 306
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+hamburger5
+  rotate: true
+  xy: 1920, 252
+  size: 258, 126
+  orig: 258, 126
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: true
+  xy: 1575, 300
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 861, 236
+  size: 63, 9
+  orig: 63, 9
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 597, 104
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 635, 350
+  size: 403, 160
+  orig: 403, 160
+  offset: 0, 0
+  index: -1
+white_egg
+  rotate: false
+  xy: 1347, 401
+  size: 298, 109
+  orig: 298, 109
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+efx_spine-arrow.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common1@arrow
+  rotate: false
+  xy: 2, 2
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="gacha1.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="gacha1@atari"	x="0"	y="422"	width="500"	height="171"/>
+	<SubTexture name="gacha1@bg01"	x="464"	y="1110"	width="68"	height="68"/>
+	<SubTexture name="gacha1@btn_blue"	x="590"	y="1902"	width="117"	height="107"/>
+	<SubTexture name="gacha1@btn_eggfree"	x="0"	y="357"	width="511"	height="64"/>
+	<SubTexture name="gacha1@btn_orange"	x="737"	y="843"	width="117"	height="107"/>
+	<SubTexture name="gacha1@btn_picturebook"	x="846"	y="465"	width="115"	height="109"/>
+	<SubTexture name="gacha1@btn_pon01"	x="501"	y="422"	width="240"	height="110"/>
+	<SubTexture name="gacha1@btn_pon02"	x="478"	y="594"	width="240"	height="110"/>
+	<SubTexture name="gacha1@btn_pon03"	x="317"	y="1308"	width="273"	height="111"/>
+	<SubTexture name="gacha1@btn_pon04"	x="464"	y="727"	width="272"	height="111"/>
+	<SubTexture name="gacha1@btn_pon05"	x="425"	y="1188"	width="272"	height="111"/>
+	<SubTexture name="gacha1@btn_pon06"	x="464"	y="839"	width="272"	height="111"/>
+	<SubTexture name="gacha1@btn_skip"	x="742"	y="465"	width="74"	height="67"/>
+	<SubTexture name="gacha1@check"	x="199"	y="2002"	width="57"	height="41"/>
+	<SubTexture name="gacha1@egg_0"	x="698"	y="1110"	width="197"	height="240"/>
+	<SubTexture name="gacha1@egg_0_0"	x="788"	y="1814"	width="125"	height="153"/>
+	<SubTexture name="gacha1@egg_0_1"	x="719"	y="533"	width="126"	height="154"/>
+	<SubTexture name="gacha1@egg_0_2"	x="788"	y="1351"	width="126"	height="154"/>
+	<SubTexture name="gacha1@egg_0_3"	x="615"	y="0"	width="126"	height="154"/>
+	<SubTexture name="gacha1@egg_1"	x="590"	y="1661"	width="197"	height="240"/>
+	<SubTexture name="gacha1@egg_1_0"	x="788"	y="1506"	width="125"	height="153"/>
+	<SubTexture name="gacha1@egg_1_1"	x="756"	y="310"	width="126"	height="154"/>
+	<SubTexture name="gacha1@egg_1_2"	x="869"	y="0"	width="126"	height="154"/>
+	<SubTexture name="gacha1@egg_1_3"	x="742"	y="0"	width="126"	height="154"/>
+	<SubTexture name="gacha1@egg_2"	x="590"	y="1420"	width="197"	height="240"/>
+	<SubTexture name="gacha1@egg_2_0"	x="788"	y="1660"	width="125"	height="153"/>
+	<SubTexture name="gacha1@egg_2_1"	x="756"	y="155"	width="126"	height="154"/>
+	<SubTexture name="gacha1@egg_2_2"	x="735"	y="951"	width="126"	height="154"/>
+	<SubTexture name="gacha1@egg_2_3"	x="737"	y="688"	width="126"	height="154"/>
+	<SubTexture name="gacha1@flame"	x="295"	y="1988"	width="139"	height="59"/>
+	<SubTexture name="gacha1@flame_s"	x="317"	y="1420"	width="111"	height="47"/>
+	<SubTexture name="gacha1@mat"	x="492"	y="2010"	width="40"	height="30"/>
+	<SubTexture name="gacha1@mat_number"	x="0"	y="2002"	width="136"	height="41"/>
+	<SubTexture name="gacha1@mat_orange"	x="137"	y="2002"	width="61"	height="41"/>
+	<SubTexture name="gacha1@mat_rate"	x="478"	y="705"	width="41"	height="21"/>
+	<SubTexture name="gacha1@mat_white"	x="435"	y="1988"	width="56"	height="57"/>
+	<SubTexture name="gacha1@off"	x="429"	y="1420"	width="53"	height="41"/>
+	<SubTexture name="gacha1@on"	x="483"	y="1420"	width="53"	height="41"/>
+	<SubTexture name="gacha1@pickup"	x="0"	y="1308"	width="316"	height="160"/>
+	<SubTexture name="gacha1@result"	x="0"	y="0"	width="614"	height="212"/>
+	<SubTexture name="gacha1@shadow"	x="0"	y="213"	width="546"	height="143"/>
+	<SubTexture name="gacha1@sky"	x="915"	y="575"	width="10"	height="1200"/>
+	<SubTexture name="gacha1@ticket51"	x="0"	y="1829"	width="294"	height="172"/>
+	<SubTexture name="gacha1@ticket52"	x="295"	y="1642"	width="294"	height="172"/>
+	<SubTexture name="gacha1@ticket53"	x="295"	y="1469"	width="294"	height="172"/>
+	<SubTexture name="gacha1@ticket54"	x="0"	y="1656"	width="294"	height="172"/>
+	<SubTexture name="gacha1@ticket55"	x="0"	y="1469"	width="294"	height="186"/>
+	<SubTexture name="gacha1@ticket56"	x="295"	y="1815"	width="294"	height="172"/>
+	<SubTexture name="gacha1@title"	x="0"	y="594"	width="477"	height="132"/>
+	<SubTexture name="gacha1@titlelogo"	x="464"	y="951"	width="270"	height="158"/>
+	<SubTexture name="gacha1@toge"	x="0"	y="727"	width="463"	height="460"/>
+	<SubTexture name="gacha1@toge02"	x="547"	y="213"	width="208"	height="207"/>
+	<SubTexture name="gacha1@yattane"	x="0"	y="1188"	width="424"	height="119"/>
+</TextureAtlas>

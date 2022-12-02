@@ -1,0 +1,20 @@
+
+mb-013_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image
+  rotate: false
+  xy: 1, 1
+  size: 700, 460
+  orig: 700, 460
+  offset: 0, 0
+  index: -1
+questefx0@kirakira1
+  rotate: false
+  xy: 702, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

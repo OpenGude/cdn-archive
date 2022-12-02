@@ -1,0 +1,146 @@
+
+gudetama-85-manually_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 502, 61
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 629, 198
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 422, 99
+  size: 132, 160
+  orig: 132, 160
+  offset: 0, 0
+  index: -1
+chawan1
+  rotate: false
+  xy: 2, 34
+  size: 310, 153
+  orig: 310, 153
+  offset: 0, 0
+  index: -1
+chawan2
+  rotate: false
+  xy: 2, 189
+  size: 312, 157
+  orig: 312, 157
+  offset: 0, 0
+  index: -1
+dare
+  rotate: true
+  xy: 709, 211
+  size: 166, 244
+  orig: 166, 244
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 584, 109
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+hashi1
+  rotate: false
+  xy: 2, 348
+  size: 442, 162
+  orig: 442, 162
+  offset: 0, 0
+  index: -1
+hashi2
+  rotate: false
+  xy: 446, 379
+  size: 452, 131
+  orig: 452, 131
+  offset: 0, 0
+  index: -1
+noodle1
+  rotate: false
+  xy: 900, 388
+  size: 24, 64
+  orig: 24, 64
+  offset: 0, 0
+  index: -1
+noodle2
+  rotate: false
+  xy: 584, 157
+  size: 43, 74
+  orig: 43, 74
+  offset: 0, 0
+  index: -1
+others
+  rotate: true
+  xy: 316, 99
+  size: 247, 104
+  orig: 247, 104
+  offset: 0, 0
+  index: -1
+others_up
+  rotate: false
+  xy: 314, 2
+  size: 130, 95
+  orig: 130, 95
+  offset: 0, 0
+  index: -1
+reflection
+  rotate: false
+  xy: 900, 454
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+tamashiro
+  rotate: true
+  xy: 446, 233
+  size: 144, 261
+  orig: 144, 261
+  offset: 0, 0
+  index: -1
+tsubu1
+  rotate: true
+  xy: 2, 2
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+tsubu2
+  rotate: false
+  xy: 926, 421
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+tsubu3
+  rotate: true
+  xy: 36, 5
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+tsubu4
+  rotate: false
+  xy: 502, 28
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+tsubu567
+  rotate: false
+  xy: 446, 3
+  size: 54, 94
+  orig: 54, 94
+  offset: 0, 0
+  index: -1

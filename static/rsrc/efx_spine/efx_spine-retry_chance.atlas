@@ -1,0 +1,76 @@
+
+efx_spine-retry_chance.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m03_arrow
+  rotate: false
+  xy: 527, 155
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
+m03_gude_roulette
+  rotate: false
+  xy: 390, 90
+  size: 135, 159
+  orig: 135, 159
+  offset: 0, 0
+  index: -1
+m03_light01
+  rotate: false
+  xy: 527, 108
+  size: 70, 45
+  orig: 92, 70
+  offset: 8, 13
+  index: -1
+m03_light02
+  rotate: false
+  xy: 639, 174
+  size: 39, 75
+  orig: 62, 100
+  offset: 9, 12
+  index: -1
+m03_light03
+  rotate: true
+  xy: 2, 2
+  size: 29, 74
+  orig: 35, 92
+  offset: 1, 7
+  index: -1
+m03_light04
+  rotate: false
+  xy: 2, 33
+  size: 83, 33
+  orig: 106, 51
+  offset: 9, 5
+  index: -1
+m03_light05
+  rotate: false
+  xy: 680, 188
+  size: 48, 61
+  orig: 69, 82
+  offset: 14, 14
+  index: -1
+m03_light06
+  rotate: true
+  xy: 390, 69
+  size: 19, 71
+  orig: 33, 88
+  offset: 7, 10
+  index: -1
+m03_light07
+  rotate: true
+  xy: 87, 41
+  size: 25, 56
+  orig: 33, 77
+  offset: 4, 12
+  index: -1
+m03_retry_chance
+  rotate: false
+  xy: 2, 68
+  size: 386, 181
+  orig: 386, 181
+  offset: 0, 0
+  index: -1

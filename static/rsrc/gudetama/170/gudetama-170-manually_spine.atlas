@@ -1,0 +1,146 @@
+
+gudetama-170-manually_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boushi1
+  rotate: true
+  xy: 390, 200
+  size: 381, 184
+  orig: 381, 184
+  offset: 0, 0
+  index: -1
+boushi2
+  rotate: false
+  xy: 2, 32
+  size: 239, 84
+  orig: 239, 84
+  offset: 0, 0
+  index: -1
+chair1
+  rotate: false
+  xy: 1428, 792
+  size: 354, 219
+  orig: 354, 219
+  offset: 0, 0
+  index: -1
+chair2
+  rotate: false
+  xy: 1068, 792
+  size: 358, 219
+  orig: 358, 219
+  offset: 0, 0
+  index: -1
+chair3
+  rotate: true
+  xy: 1784, 698
+  size: 313, 191
+  orig: 313, 191
+  offset: 0, 0
+  index: -1
+chair4
+  rotate: false
+  xy: 1068, 599
+  size: 315, 191
+  orig: 315, 191
+  offset: 0, 0
+  index: -1
+chair5
+  rotate: false
+  xy: 1385, 603
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+gude1
+  rotate: false
+  xy: 2, 118
+  size: 386, 463
+  orig: 386, 463
+  offset: 0, 0
+  index: -1
+gude2
+  rotate: true
+  xy: 831, 611
+  size: 90, 119
+  orig: 90, 119
+  offset: 0, 0
+  index: -1
+gude3
+  rotate: true
+  xy: 390, 123
+  size: 75, 119
+  orig: 75, 119
+  offset: 0, 0
+  index: -1
+gude4
+  rotate: false
+  xy: 1591, 654
+  size: 131, 136
+  orig: 131, 136
+  offset: 0, 0
+  index: -1
+gude5
+  rotate: false
+  xy: 532, 605
+  size: 167, 96
+  orig: 167, 96
+  offset: 0, 0
+  index: -1
+gude6
+  rotate: true
+  xy: 1977, 915
+  size: 96, 38
+  orig: 96, 38
+  offset: 0, 0
+  index: -1
+gude7
+  rotate: true
+  xy: 2017, 959
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+gude8
+  rotate: false
+  xy: 2, 2
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+gude9
+  rotate: false
+  xy: 243, 56
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+kara1
+  rotate: false
+  xy: 532, 703
+  size: 534, 308
+  orig: 534, 308
+  offset: 0, 0
+  index: -1
+kara2
+  rotate: false
+  xy: 2, 583
+  size: 528, 428
+  orig: 528, 428
+  offset: 0, 0
+  index: -1
+megaphone1
+  rotate: false
+  xy: 1385, 615
+  size: 204, 175
+  orig: 204, 175
+  offset: 0, 0
+  index: -1
+megaphone2
+  rotate: true
+  xy: 701, 597
+  size: 104, 128
+  orig: 104, 128
+  offset: 0, 0
+  index: -1

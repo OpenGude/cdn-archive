@@ -1,0 +1,83 @@
+
+mb-008_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 558
+  size: 700, 450
+  orig: 700, 450
+  offset: 0, 0
+  index: -1
+chara00
+  rotate: true
+  xy: 702, 567
+  size: 441, 480
+  orig: 452, 480
+  offset: 5, 0
+  index: -1
+chara00add
+  rotate: true
+  xy: 1576, 242
+  size: 226, 240
+  orig: 226, 240
+  offset: 0, 0
+  index: -1
+chara01
+  rotate: false
+  xy: 1, 77
+  size: 551, 480
+  orig: 555, 480
+  offset: 1, 0
+  index: -1
+chara01add
+  rotate: true
+  xy: 1576, 469
+  size: 278, 240
+  orig: 278, 240
+  offset: 0, 0
+  index: -1
+chara02
+  rotate: false
+  xy: 1183, 748
+  size: 643, 260
+  orig: 650, 263
+  offset: 4, 0
+  index: -1
+chara02add
+  rotate: true
+  xy: 553, 232
+  size: 325, 132
+  orig: 325, 132
+  offset: 0, 0
+  index: -1
+chara03
+  rotate: false
+  xy: 1183, 370
+  size: 392, 377
+  orig: 409, 386
+  offset: 8, 0
+  index: -1
+chara03add
+  rotate: false
+  xy: 1827, 816
+  size: 204, 192
+  orig: 205, 193
+  offset: 0, 0
+  index: -1
+questefx0@kirakira1
+  rotate: false
+  xy: 553, 167
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 1
+  size: 524, 75
+  orig: 524, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,286 @@
+
+gudetama-160-manually_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_fish_00
+  rotate: false
+  xy: 791, 318
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+a_fish_01
+  rotate: false
+  xy: 692, 247
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+a_fish_02
+  rotate: false
+  xy: 475, 189
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+a_fish_03
+  rotate: false
+  xy: 729, 297
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+a_fish_04
+  rotate: false
+  xy: 92, 2
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+a_fish_05
+  rotate: false
+  xy: 859, 376
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+a_fish_06
+  rotate: false
+  xy: 692, 240
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+air
+  rotate: false
+  xy: 729, 372
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: false
+  xy: 151, 58
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 331, 98
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+b_fish_00
+  rotate: false
+  xy: 707, 268
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+b_fish_01
+  rotate: false
+  xy: 829, 347
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+b_fish_02
+  rotate: true
+  xy: 365, 127
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+b_fish_03
+  rotate: false
+  xy: 92, 33
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+b_fish_04
+  rotate: true
+  xy: 638, 240
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+b_fish_05
+  rotate: false
+  xy: 331, 113
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 859, 409
+  size: 162, 101
+  orig: 162, 101
+  offset: 0, 0
+  index: -1
+bag2
+  rotate: false
+  xy: 2, 151
+  size: 381, 359
+  orig: 381, 359
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 385, 156
+  size: 77, 88
+  orig: 77, 88
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 548, 208
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: false
+  xy: 29, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+bubble3
+  rotate: false
+  xy: 580, 223
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+bubble4
+  rotate: false
+  xy: 512, 175
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+bubble5
+  rotate: true
+  xy: 42, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 178, 70
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: true
+  xy: 54, 2
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 791, 339
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 475, 156
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 729, 279
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+light_bag
+  rotate: true
+  xy: 248, 90
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 151, 42
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1
+line2
+  rotate: true
+  xy: 248, 80
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+line3
+  rotate: false
+  xy: 548, 191
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+line4
+  rotate: true
+  xy: 2, 2
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 767, 287
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+s_bag
+  rotate: true
+  xy: 2, 13
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+s_egg
+  rotate: false
+  xy: 905, 392
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+string
+  rotate: true
+  xy: 2, 79
+  size: 70, 244
+  orig: 70, 244
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 385, 235
+  size: 251, 38
+  orig: 251, 38
+  offset: 0, 0
+  index: -1
+water2
+  rotate: false
+  xy: 385, 275
+  size: 342, 235
+  orig: 342, 235
+  offset: 0, 0
+  index: -1

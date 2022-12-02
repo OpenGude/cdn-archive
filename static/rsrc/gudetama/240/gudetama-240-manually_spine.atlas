@@ -1,0 +1,153 @@
+
+gudetama-240-manually_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 358, 126
+  size: 58, 90
+  orig: 58, 90
+  offset: 0, 0
+  index: -1
+armR
+  rotate: true
+  xy: 1469, 387
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 788, 206
+  size: 298, 375
+  orig: 298, 375
+  offset: 0, 0
+  index: -1
+bottle
+  rotate: false
+  xy: 2, 107
+  size: 194, 150
+  orig: 194, 150
+  offset: 0, 0
+  index: -1
+bottle_light
+  rotate: false
+  xy: 1619, 428
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+bottle_light2
+  rotate: true
+  xy: 1688, 473
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 418, 142
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+cap2
+  rotate: true
+  xy: 1546, 379
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 1469, 366
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: true
+  xy: 554, 218
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+himo1
+  rotate: false
+  xy: 1165, 344
+  size: 143, 160
+  orig: 143, 160
+  offset: 0, 0
+  index: -1
+himo2
+  rotate: false
+  xy: 198, 122
+  size: 158, 135
+  orig: 158, 135
+  offset: 0, 0
+  index: -1
+legL
+  rotate: false
+  xy: 2, 2
+  size: 178, 103
+  orig: 178, 103
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 1165, 224
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 492, 145
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1529, 433
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1
+shiromi
+  rotate: false
+  xy: 2, 259
+  size: 784, 245
+  orig: 784, 245
+  offset: 0, 0
+  index: -1
+shiromi_shadow1
+  rotate: false
+  xy: 1310, 433
+  size: 217, 71
+  orig: 217, 71
+  offset: 0, 0
+  index: -1
+shiromi_shadow2
+  rotate: false
+  xy: 358, 218
+  size: 194, 39
+  orig: 194, 39
+  offset: 0, 0
+  index: -1
+syouyu1
+  rotate: false
+  xy: 1529, 473
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1
+syouyu2
+  rotate: false
+  xy: 1310, 359
+  size: 157, 72
+  orig: 157, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+gudetama-28-manually_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoguang
+  rotate: false
+  xy: 933, 1029
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+l_shoubi
+  rotate: false
+  xy: 786, 846
+  size: 143, 116
+  orig: 143, 116
+  offset: 0, 0
+  index: -1
+l_yan
+  rotate: false
+  xy: 933, 987
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+l_yaolun_nei
+  rotate: false
+  xy: 2, 64
+  size: 730, 448
+  orig: 730, 448
+  offset: 0, 0
+  index: -1
+l_yaolun_wai
+  rotate: false
+  xy: 2, 1500
+  size: 929, 534
+  orig: 929, 534
+  offset: 0, 0
+  index: -1
+r_shoubi
+  rotate: false
+  xy: 1538, 1938
+  size: 192, 96
+  orig: 192, 96
+  offset: 0, 0
+  index: -1
+r_tui
+  rotate: false
+  xy: 933, 1150
+  size: 278, 177
+  orig: 278, 177
+  offset: 0, 0
+  index: -1
+r_yan
+  rotate: true
+  xy: 734, 438
+  size: 74, 47
+  orig: 74, 47
+  offset: 0, 0
+  index: -1
+r_yaolun_nei
+  rotate: false
+  xy: 2, 514
+  size: 782, 448
+  orig: 782, 448
+  offset: 0, 0
+  index: -1
+r_yaolun_wai
+  rotate: false
+  xy: 2, 964
+  size: 929, 534
+  orig: 929, 534
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 933, 1329
+  size: 603, 705
+  orig: 603, 705
+  offset: 0, 0
+  index: -1
+xian1
+  rotate: false
+  xy: 786, 766
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: false
+  xy: 1538, 1837
+  size: 60, 99
+  orig: 60, 99
+  offset: 0, 0
+  index: -1
+xian3
+  rotate: false
+  xy: 1732, 1949
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+xian4
+  rotate: false
+  xy: 1213, 1220
+  size: 64, 107
+  orig: 64, 107
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 2
+  size: 154, 60
+  orig: 154, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+gudetama-169-manually_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_siro
+  rotate: false
+  xy: 2, 421
+  size: 1293, 592
+  orig: 1293, 592
+  offset: 0, 0
+  index: -1
+2_siro-k1
+  rotate: false
+  xy: 1297, 672
+  size: 346, 167
+  orig: 346, 167
+  offset: 0, 0
+  index: -1
+3_siro-k2
+  rotate: false
+  xy: 1679, 862
+  size: 230, 151
+  orig: 230, 151
+  offset: 0, 0
+  index: -1
+4_kimi
+  rotate: false
+  xy: 2, 2
+  size: 601, 417
+  orig: 601, 417
+  offset: 0, 0
+  index: -1
+5_kimi_asi_r
+  rotate: false
+  xy: 605, 135
+  size: 238, 284
+  orig: 238, 284
+  offset: 0, 0
+  index: -1
+6_kimi_hairaito
+  rotate: false
+  xy: 1297, 585
+  size: 142, 85
+  orig: 142, 85
+  offset: 0, 0
+  index: -1
+7_kimi_asi_l
+  rotate: false
+  xy: 1297, 841
+  size: 380, 172
+  orig: 380, 172
+  offset: 0, 0
+  index: -1
+8_kao
+  rotate: true
+  xy: 605, 11
+  size: 122, 218
+  orig: 122, 218
+  offset: 0, 0
+  index: -1
+9_kimi_hidari
+  rotate: false
+  xy: 845, 335
+  size: 184, 84
+  orig: 184, 84
+  offset: 0, 0
+  index: -1

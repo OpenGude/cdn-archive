@@ -1,0 +1,146 @@
+
+gudetama-62-manually_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 35
+  size: 296, 471
+  orig: 296, 471
+  offset: 0, 0
+  index: -1
+hua_jie
+  rotate: false
+  xy: 540, 218
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+hua_l_daizi1
+  rotate: false
+  xy: 459, 187
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+hua_l_daizi2
+  rotate: true
+  xy: 746, 397
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+hua_r_daizi1
+  rotate: false
+  xy: 746, 451
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+hua_r_daizi2
+  rotate: false
+  xy: 459, 120
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+xin1_bai
+  rotate: true
+  xy: 2, 2
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+xin1_hong
+  rotate: false
+  xy: 459, 246
+  size: 126, 115
+  orig: 126, 115
+  offset: 0, 0
+  index: -1
+xin1_l_yan
+  rotate: false
+  xy: 514, 173
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+xin1_r_yan
+  rotate: false
+  xy: 827, 489
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+xin1_shang
+  rotate: false
+  xy: 300, 363
+  size: 157, 143
+  orig: 157, 143
+  offset: 0, 0
+  index: -1
+xin1_xia
+  rotate: false
+  xy: 300, 218
+  size: 157, 143
+  orig: 157, 143
+  offset: 0, 0
+  index: -1
+xin1_zui
+  rotate: true
+  xy: 587, 323
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+xin2_bai
+  rotate: true
+  xy: 300, 40
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+xin2_huang
+  rotate: false
+  xy: 618, 391
+  size: 126, 115
+  orig: 126, 115
+  offset: 0, 0
+  index: -1
+xin2_l_yan
+  rotate: false
+  xy: 459, 101
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+xin2_r_yan
+  rotate: true
+  xy: 811, 428
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+xin2_shang
+  rotate: false
+  xy: 459, 363
+  size: 157, 143
+  orig: 157, 143
+  offset: 0, 0
+  index: -1
+xin2_xia
+  rotate: false
+  xy: 300, 73
+  size: 157, 143
+  orig: 157, 143
+  offset: 0, 0
+  index: -1
+xin2_zui
+  rotate: false
+  xy: 618, 365
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1

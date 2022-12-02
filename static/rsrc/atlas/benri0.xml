@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="benri0.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="benri0@banner01"	x="0"	y="377"	width="438"	height="77"/>
+	<SubTexture name="benri0@frame"	x="561"	y="0"	width="218"	height="204"/>
+	<SubTexture name="benri0@mat_number"	x="0"	y="455"	width="52"	height="37"/>
+	<SubTexture name="benri0@rental"	x="439"	y="377"	width="104"	height="59"/>
+	<SubTexture name="benri0@tab01"	x="0"	y="0"	width="560"	height="145"/>
+	<SubTexture name="benri0@tab02"	x="0"	y="146"	width="560"	height="145"/>
+	<SubTexture name="benri0@tab03"	x="545"	y="292"	width="451"	height="142"/>
+	<SubTexture name="benri0@title"	x="0"	y="292"	width="544"	height="84"/>
+</TextureAtlas>

@@ -1,0 +1,90 @@
+
+gudetama-8-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 798, 210
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 2, 2
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 287, 41
+  size: 211, 224
+  orig: 211, 224
+  offset: 0, 0
+  index: -1
+egg_body
+  rotate: false
+  xy: 2, 59
+  size: 283, 193
+  orig: 283, 193
+  offset: 0, 0
+  index: -1
+egg_light
+  rotate: false
+  xy: 513, 55
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+egg_shadow
+  rotate: false
+  xy: 513, 144
+  size: 283, 108
+  orig: 283, 108
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 854, 234
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 587, 99
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+handou
+  rotate: false
+  xy: 798, 177
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+handou2
+  rotate: false
+  xy: 70, 8
+  size: 17, 49
+  orig: 17, 49
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 513, 79
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 587, 114
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1

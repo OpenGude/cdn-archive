@@ -1,0 +1,90 @@
+
+gudetama-129-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 1081, 106
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 2
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 951, 27
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 1141, 180
+  size: 88, 72
+  orig: 88, 72
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 951, 157
+  size: 188, 95
+  orig: 188, 95
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 65, 24
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 951, 93
+  size: 128, 62
+  orig: 128, 62
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 1016, 67
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 1231, 208
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 466, 5
+  size: 247, 276
+  orig: 247, 276
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 744, 7
+  size: 205, 245
+  orig: 205, 245
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 60
+  size: 462, 192
+  orig: 462, 192
+  offset: 0, 0
+  index: -1

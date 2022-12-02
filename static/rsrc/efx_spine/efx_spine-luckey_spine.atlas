@@ -1,0 +1,118 @@
+
+efx_spine-luckey_spine.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m02_Car_navigation_system
+  rotate: false
+  xy: 296, 31
+  size: 133, 95
+  orig: 133, 95
+  offset: 0, 0
+  index: -1
+m02_egggold
+  rotate: false
+  xy: 431, 43
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+m02_eggsilver
+  rotate: false
+  xy: 503, 43
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+m02_light_gold
+  rotate: false
+  xy: 618, 96
+  size: 23, 30
+  orig: 33, 37
+  offset: 4, 3
+  index: -1
+m02_light_silver
+  rotate: false
+  xy: 643, 96
+  size: 23, 30
+  orig: 29, 37
+  offset: 3, 4
+  index: -1
+m02_lucky
+  rotate: false
+  xy: 2, 35
+  size: 292, 91
+  orig: 292, 91
+  offset: 0, 0
+  index: -1
+m02_note01
+  rotate: false
+  xy: 67, 2
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+m02_note02
+  rotate: false
+  xy: 668, 97
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+m02_note03
+  rotate: true
+  xy: 36, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+m02_note04
+  rotate: true
+  xy: 36, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+m02_star01
+  rotate: false
+  xy: 575, 86
+  size: 41, 40
+  orig: 49, 45
+  offset: 3, 3
+  index: -1
+m02_star02
+  rotate: false
+  xy: 575, 49
+  size: 36, 35
+  orig: 40, 38
+  offset: 3, 1
+  index: -1
+m02_star03
+  rotate: true
+  xy: 2, 2
+  size: 31, 32
+  orig: 39, 32
+  offset: 5, 0
+  index: -1
+m02_star04
+  rotate: false
+  xy: 691, 102
+  size: 25, 24
+  orig: 31, 26
+  offset: 3, 1
+  index: -1
+m02_star05
+  rotate: false
+  xy: 718, 105
+  size: 21, 21
+  orig: 27, 25
+  offset: 3, 4
+  index: -1
+m02_star06
+  rotate: false
+  xy: 741, 109
+  size: 17, 17
+  orig: 23, 23
+  offset: 3, 4
+  index: -1

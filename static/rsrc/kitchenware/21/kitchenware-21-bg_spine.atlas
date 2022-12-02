@@ -1,0 +1,139 @@
+
+kitchenware-21-bg_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+balloon
+  rotate: false
+  xy: 1107, 1034
+  size: 220, 212
+  orig: 220, 212
+  offset: 0, 0
+  index: -1
+cloud01
+  rotate: false
+  xy: 2, 573
+  size: 489, 393
+  orig: 489, 393
+  offset: 0, 0
+  index: -1
+cloud02
+  rotate: false
+  xy: 849, 1248
+  size: 562, 229
+  orig: 562, 229
+  offset: 0, 0
+  index: -1
+dish
+  rotate: false
+  xy: 1432, 1801
+  size: 565, 187
+  orig: 565, 187
+  offset: 0, 0
+  index: -1
+door2
+  rotate: false
+  xy: 849, 1479
+  size: 581, 509
+  orig: 581, 509
+  offset: 0, 0
+  index: -1
+door_shadow
+  rotate: false
+  xy: 493, 659
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+egg
+  rotate: false
+  xy: 61, 144
+  size: 140, 169
+  orig: 140, 169
+  offset: 0, 0
+  index: -1
+egg_face1
+  rotate: false
+  xy: 1432, 1517
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+egg_light
+  rotate: false
+  xy: 1690, 1576
+  size: 194, 223
+  orig: 194, 223
+  offset: 0, 0
+  index: -1
+filter
+  rotate: false
+  xy: 1999, 1956
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+filter_red
+  rotate: false
+  xy: 751, 934
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 1479
+  size: 845, 509
+  orig: 845, 509
+  offset: 0, 0
+  index: -1
+moja1
+  rotate: false
+  xy: 493, 710
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+moja2
+  rotate: false
+  xy: 849, 990
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+moja3
+  rotate: false
+  xy: 1432, 1543
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+moja4
+  rotate: false
+  xy: 61, 315
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+oven_inside
+  rotate: true
+  xy: 2, 2
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+ver5/handle
+  rotate: true
+  xy: 2, 62
+  size: 509, 57
+  orig: 509, 57
+  offset: 0, 0
+  index: -1
+ver5/oven
+  rotate: false
+  xy: 2, 968
+  size: 845, 509
+  orig: 845, 509
+  offset: 0, 0
+  index: -1

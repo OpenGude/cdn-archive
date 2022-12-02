@@ -1,0 +1,167 @@
+
+gudetama-12-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 1788, 113
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 417, 42
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1512, 89
+  size: 165, 225
+  orig: 165, 225
+  offset: 0, 0
+  index: -1
+break＿egg
+  rotate: true
+  xy: 465, 46
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+camera
+  rotate: false
+  xy: 574, 60
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+egg_s
+  rotate: false
+  xy: 318, 77
+  size: 300, 177
+  orig: 300, 177
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 620, 81
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: true
+  xy: 318, 2
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+flash
+  rotate: true
+  xy: 1739, 90
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+handle
+  rotate: false
+  xy: 1739, 141
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+handle2
+  rotate: false
+  xy: 545, 48
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+handle3
+  rotate: false
+  xy: 1739, 101
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+handle4
+  rotate: false
+  xy: 367, 39
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 318, 23
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 2022, 218
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+smartphone
+  rotate: true
+  xy: 1259, 97
+  size: 157, 251
+  orig: 157, 251
+  offset: 0, 0
+  index: -1
+smartphone2
+  rotate: true
+  xy: 620, 95
+  size: 159, 318
+  orig: 159, 318
+  offset: 0, 0
+  index: -1
+smartphone3
+  rotate: true
+  xy: 940, 96
+  size: 158, 317
+  orig: 158, 317
+  offset: 0, 0
+  index: -1
+tire
+  rotate: true
+  xy: 367, 2
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+tire2
+  rotate: false
+  xy: 1854, 142
+  size: 82, 112
+  orig: 82, 112
+  offset: 0, 0
+  index: -1
+tire3
+  rotate: false
+  xy: 1938, 143
+  size: 82, 111
+  orig: 82, 111
+  offset: 0, 0
+  index: -1
+waku
+  rotate: false
+  xy: 509, 48
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 2, 9
+  size: 314, 245
+  orig: 314, 245
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+gudetama-51-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0051AR01
+  rotate: false
+  xy: 1595, 214
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+0051AR02
+  rotate: false
+  xy: 1095, 77
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+0051AR03
+  rotate: false
+  xy: 1095, 54
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+0051AR04
+  rotate: false
+  xy: 597, 25
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+0051AR05
+  rotate: false
+  xy: 2, 2
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+0051AR06
+  rotate: false
+  xy: 1428, 146
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+0051AR07
+  rotate: false
+  xy: 1163, 125
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+0051AR08
+  rotate: false
+  xy: 1428, 159
+  size: 165, 93
+  orig: 165, 93
+  offset: 0, 0
+  index: -1
+0051AR09
+  rotate: false
+  xy: 1095, 140
+  size: 331, 112
+  orig: 331, 112
+  offset: 0, 0
+  index: -1
+0051AR10
+  rotate: false
+  xy: 597, 52
+  size: 496, 200
+  orig: 496, 200
+  offset: 0, 0
+  index: -1
+0051AR11
+  rotate: false
+  xy: 2, 24
+  size: 593, 228
+  orig: 593, 228
+  offset: 0, 0
+  index: -1

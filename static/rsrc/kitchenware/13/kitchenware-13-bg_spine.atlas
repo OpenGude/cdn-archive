@@ -1,0 +1,139 @@
+
+kitchenware-13-bg_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+balloon
+  rotate: true
+  xy: 644, 291
+  size: 220, 212
+  orig: 220, 212
+  offset: 0, 0
+  index: -1
+cloud01
+  rotate: false
+  xy: 849, 629
+  size: 489, 393
+  orig: 489, 393
+  offset: 0, 0
+  index: -1
+cloud02
+  rotate: false
+  xy: 1340, 793
+  size: 562, 229
+  orig: 562, 229
+  offset: 0, 0
+  index: -1
+dish
+  rotate: false
+  xy: 1340, 604
+  size: 565, 187
+  orig: 565, 187
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 2, 6
+  size: 581, 505
+  orig: 581, 505
+  offset: 0, 0
+  index: -1
+door_shadow
+  rotate: false
+  xy: 1904, 802
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+egg
+  rotate: false
+  xy: 1904, 853
+  size: 140, 169
+  orig: 140, 169
+  offset: 0, 0
+  index: -1
+egg_face1
+  rotate: false
+  xy: 883, 2
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+egg_light
+  rotate: false
+  xy: 644, 66
+  size: 194, 223
+  orig: 194, 223
+  offset: 0, 0
+  index: -1
+filter
+  rotate: false
+  xy: 1252, 595
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+filter_red
+  rotate: false
+  xy: 883, 28
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 644, 23
+  size: 41, 184
+  orig: 845, 509
+  offset: 398, 217
+  index: -1
+moja1
+  rotate: true
+  xy: 858, 252
+  size: 185, 189
+  orig: 256, 256
+  offset: 32, 29
+  index: -1
+moja2
+  rotate: false
+  xy: 840, 62
+  size: 188, 188
+  orig: 256, 256
+  offset: 29, 34
+  index: -1
+moja3
+  rotate: false
+  xy: 858, 439
+  size: 196, 188
+  orig: 256, 256
+  offset: 27, 32
+  index: -1
+moja4
+  rotate: true
+  xy: 1056, 444
+  size: 183, 194
+  orig: 256, 256
+  offset: 32, 32
+  index: -1
+oven_inside
+  rotate: true
+  xy: 830, 2
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+ver3/handle
+  rotate: true
+  xy: 585, 2
+  size: 509, 57
+  orig: 509, 57
+  offset: 0, 0
+  index: -1
+ver3/oven
+  rotate: false
+  xy: 2, 513
+  size: 845, 509
+  orig: 845, 509
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+gudetama-59-manually_spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianbao1shenti
+  rotate: false
+  xy: 492, 79
+  size: 375, 203
+  orig: 375, 203
+  offset: 0, 0
+  index: -1
+mianbao1youyan
+  rotate: true
+  xy: 864, 353
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+mianbao1zui
+  rotate: true
+  xy: 864, 388
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+mianbao2shenti
+  rotate: false
+  xy: 492, 284
+  size: 370, 222
+  orig: 370, 222
+  offset: 0, 0
+  index: -1
+mianbao2zui
+  rotate: false
+  xy: 918, 483
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+mianbao2zuoyan
+  rotate: false
+  xy: 129, 60
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+mianbao3shenti
+  rotate: false
+  xy: 2, 79
+  size: 488, 427
+  orig: 488, 427
+  offset: 0, 0
+  index: -1
+mianbao3you
+  rotate: false
+  xy: 986, 486
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+mianbao3youshou
+  rotate: false
+  xy: 2, 25
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+mianbao3zui
+  rotate: false
+  xy: 56, 49
+  size: 71, 28
+  orig: 71, 28
+  offset: 0, 0
+  index: -1
+mianbao3zuo
+  rotate: false
+  xy: 2, 2
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+mianbao3zuoshou
+  rotate: false
+  xy: 864, 454
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+miaobao1zuoyan
+  rotate: false
+  xy: 56, 27
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+miaobao2youyan
+  rotate: true
+  xy: 893, 419
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1

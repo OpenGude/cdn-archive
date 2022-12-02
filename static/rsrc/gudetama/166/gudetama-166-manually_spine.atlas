@@ -1,0 +1,181 @@
+
+gudetama-166-manually_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_kama
+  rotate: true
+  xy: 889, 2
+  size: 212, 197
+  orig: 212, 197
+  offset: 0, 0
+  index: -1
+11_negi
+  rotate: false
+  xy: 1585, 1496
+  size: 276, 153
+  orig: 276, 153
+  offset: 0, 0
+  index: -1
+12_niku_sita
+  rotate: false
+  xy: 378, 18
+  size: 310, 210
+  orig: 310, 210
+  offset: 0, 0
+  index: -1
+13_niku
+  rotate: true
+  xy: 1373, 1291
+  size: 310, 210
+  orig: 310, 210
+  offset: 0, 0
+  index: -1
+14_aka
+  rotate: false
+  xy: 1585, 1339
+  size: 265, 155
+  orig: 265, 155
+  offset: 0, 0
+  index: -1
+15_menma3
+  rotate: true
+  xy: 693, 917
+  size: 229, 97
+  orig: 229, 97
+  offset: 0, 0
+  index: -1
+16_siro
+  rotate: false
+  xy: 1192, 423
+  size: 245, 145
+  orig: 245, 145
+  offset: 0, 0
+  index: -1
+17_kimi
+  rotate: false
+  xy: 1863, 1544
+  size: 127, 105
+  orig: 127, 105
+  offset: 0, 0
+  index: -1
+18_asih
+  rotate: false
+  xy: 1585, 1298
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+19_asim
+  rotate: false
+  xy: 231, 103
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+1_donburi
+  rotate: false
+  xy: 2, 1392
+  size: 734, 654
+  orig: 734, 654
+  offset: 0, 0
+  index: -1
+20_te
+  rotate: false
+  xy: 1088, 175
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+21_kao
+  rotate: false
+  xy: 1437, 1616
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+22_kuro
+  rotate: false
+  xy: 1437, 1651
+  size: 576, 395
+  orig: 576, 395
+  offset: 0, 0
+  index: -1
+23_abu2
+  rotate: true
+  xy: 809, 515
+  size: 631, 381
+  orig: 631, 381
+  offset: 0, 0
+  index: -1
+24_donue
+  rotate: true
+  xy: 2, 138
+  size: 729, 374
+  orig: 729, 374
+  offset: 0, 0
+  index: -1
+25_abu3
+  rotate: true
+  xy: 378, 230
+  size: 637, 429
+  orig: 637, 429
+  offset: 0, 0
+  index: -1
+2_men_sita
+  rotate: false
+  xy: 738, 1603
+  size: 697, 443
+  orig: 697, 443
+  offset: 0, 0
+  index: -1
+3_siru
+  rotate: false
+  xy: 2, 869
+  size: 689, 521
+  orig: 689, 521
+  offset: 0, 0
+  index: -1
+4_men
+  rotate: true
+  xy: 1192, 570
+  size: 576, 359
+  orig: 576, 359
+  offset: 0, 0
+  index: -1
+5_menma1
+  rotate: false
+  xy: 1373, 1182
+  size: 209, 107
+  orig: 209, 107
+  offset: 0, 0
+  index: -1
+6_abu1
+  rotate: false
+  xy: 738, 1148
+  size: 633, 453
+  orig: 633, 453
+  offset: 0, 0
+  index: -1
+7_menma2
+  rotate: false
+  xy: 2, 35
+  size: 227, 101
+  orig: 227, 101
+  offset: 0, 0
+  index: -1
+8_nori
+  rotate: true
+  xy: 809, 216
+  size: 297, 333
+  orig: 297, 333
+  offset: 0, 0
+  index: -1
+9_kamasita
+  rotate: true
+  xy: 690, 2
+  size: 212, 197
+  orig: 212, 197
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+gudetama-242-manually_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dish
+  rotate: false
+  xy: 2, 223
+  size: 709, 287
+  orig: 709, 287
+  offset: 0, 0
+  index: -1
+gude_armL
+  rotate: false
+  xy: 1870, 351
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+gude_armR
+  rotate: false
+  xy: 1068, 273
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+gude_body
+  rotate: false
+  xy: 694, 2
+  size: 142, 177
+  orig: 142, 177
+  offset: 0, 0
+  index: -1
+gude_eyeL
+  rotate: false
+  xy: 1068, 258
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+gude_eyeR
+  rotate: false
+  xy: 1104, 295
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+gude_light
+  rotate: false
+  xy: 87, 24
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+gude_mouth
+  rotate: true
+  xy: 694, 188
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+ika3_body
+  rotate: true
+  xy: 504, 6
+  size: 215, 188
+  orig: 215, 188
+  offset: 0, 0
+  index: -1
+ika3_eyeL
+  rotate: true
+  xy: 1909, 332
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+ika3_eyeR
+  rotate: false
+  xy: 862, 49
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+ika3_leg
+  rotate: true
+  xy: 1928, 316
+  size: 194, 105
+  orig: 194, 105
+  offset: 0, 0
+  index: -1
+ika3_light1
+  rotate: false
+  xy: 2, 6
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+ika3_light2
+  rotate: true
+  xy: 838, 2
+  size: 61, 22
+  orig: 61, 22
+  offset: 0, 0
+  index: -1
+ika3_mouth
+  rotate: true
+  xy: 1909, 353
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+pasta1
+  rotate: false
+  xy: 1147, 256
+  size: 365, 254
+  orig: 365, 254
+  offset: 0, 0
+  index: -1
+pasta2
+  rotate: false
+  xy: 713, 310
+  size: 432, 200
+  orig: 432, 200
+  offset: 0, 0
+  index: -1
+pasta3
+  rotate: false
+  xy: 1514, 384
+  size: 412, 126
+  orig: 412, 126
+  offset: 0, 0
+  index: -1
+pasta4
+  rotate: false
+  xy: 2, 49
+  size: 500, 172
+  orig: 500, 172
+  offset: 0, 0
+  index: -1
+pasta5
+  rotate: false
+  xy: 713, 181
+  size: 353, 127
+  orig: 353, 127
+  offset: 0, 0
+  index: -1
+pasta6
+  rotate: false
+  xy: 1514, 225
+  size: 354, 157
+  orig: 354, 157
+  offset: 0, 0
+  index: -1
+pasta7
+  rotate: false
+  xy: 838, 65
+  size: 303, 114
+  orig: 303, 114
+  offset: 0, 0
+  index: -1

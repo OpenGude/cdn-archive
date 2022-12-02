@@ -1,0 +1,125 @@
+
+gudetama-39-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 61, 2
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 2, 2
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 402, 87
+  size: 167, 213
+  orig: 167, 213
+  offset: 0, 0
+  index: -1
+egg_s
+  rotate: false
+  xy: 106, 21
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 373, 100
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 695, 121
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+fish
+  rotate: false
+  xy: 2, 53
+  size: 136, 60
+  orig: 136, 60
+  offset: 0, 0
+  index: -1
+fish2
+  rotate: false
+  xy: 617, 135
+  size: 133, 58
+  orig: 133, 58
+  offset: 0, 0
+  index: -1
+fish3
+  rotate: false
+  xy: 617, 195
+  size: 137, 59
+  orig: 137, 59
+  offset: 0, 0
+  index: -1
+fish4
+  rotate: false
+  xy: 756, 204
+  size: 107, 50
+  orig: 107, 50
+  offset: 0, 0
+  index: -1
+fish5
+  rotate: false
+  xy: 140, 53
+  size: 136, 60
+  orig: 136, 60
+  offset: 0, 0
+  index: -1
+fish6
+  rotate: false
+  xy: 278, 36
+  size: 93, 77
+  orig: 93, 77
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 865, 195
+  size: 88, 59
+  orig: 88, 59
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 617, 70
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 955, 214
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 106, 2
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+white_body
+  rotate: false
+  xy: 2, 115
+  size: 398, 139
+  orig: 398, 139
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+gudetama-65-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ashi_l
+  rotate: true
+  xy: 947, 21
+  size: 86, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 8
+  size: 376, 223
+  orig: 376, 223
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 933, 109
+  size: 122, 57
+  orig: 122, 57
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 592, 132
+  size: 203, 99
+  orig: 203, 99
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 380, 20
+  size: 186, 85
+  orig: 186, 85
+  offset: 0, 0
+  index: -1
+mimi_l_front
+  rotate: true
+  xy: 776, 2
+  size: 103, 112
+  orig: 103, 112
+  offset: 0, 0
+  index: -1
+mimi_l_side
+  rotate: true
+  xy: 797, 107
+  size: 124, 134
+  orig: 124, 134
+  offset: 0, 0
+  index: -1
+mimi_r_side
+  rotate: true
+  xy: 592, 5
+  size: 125, 132
+  orig: 125, 132
+  offset: 0, 0
+  index: -1
+te_l
+  rotate: true
+  xy: 726, 21
+  size: 109, 48
+  orig: 109, 48
+  offset: 0, 0
+  index: -1
+te_r
+  rotate: true
+  xy: 890, 15
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+uzumaki
+  rotate: false
+  xy: 380, 107
+  size: 210, 124
+  orig: 210, 124
+  offset: 0, 0
+  index: -1

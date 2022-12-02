@@ -1,0 +1,314 @@
+
+gudetama-149-manually_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_dan_01
+  rotate: true
+  xy: 529, 211
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+a_dan_02
+  rotate: false
+  xy: 1127, 682
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+a_dan_03
+  rotate: false
+  xy: 1127, 707
+  size: 156, 106
+  orig: 156, 106
+  offset: 0, 0
+  index: -1
+b_dan_01
+  rotate: false
+  xy: 435, 128
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+b_dan_02
+  rotate: false
+  xy: 385, 104
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+b_dan_03
+  rotate: true
+  xy: 516, 187
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+b_dan_04
+  rotate: false
+  xy: 1162, 690
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+b_dan_05
+  rotate: false
+  xy: 385, 124
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+b_dan_06
+  rotate: false
+  xy: 680, 452
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+b_dan_07
+  rotate: false
+  xy: 118, 19
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+b_dan_08
+  rotate: false
+  xy: 1285, 696
+  size: 144, 117
+  orig: 144, 117
+  offset: 0, 0
+  index: -1
+c_dan_01
+  rotate: true
+  xy: 652, 304
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+c_dan_02
+  rotate: false
+  xy: 580, 221
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+c_dan_03
+  rotate: false
+  xy: 529, 198
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+c_dan_04
+  rotate: false
+  xy: 467, 129
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+c_dan_05
+  rotate: false
+  xy: 529, 236
+  size: 121, 149
+  orig: 121, 149
+  offset: 0, 0
+  index: -1
+d_dan_01
+  rotate: true
+  xy: 680, 537
+  size: 127, 46
+  orig: 127, 46
+  offset: 0, 0
+  index: -1
+d_dan_02
+  rotate: true
+  xy: 652, 340
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+d_dan_03
+  rotate: true
+  xy: 243, 78
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+d_dan_04
+  rotate: false
+  xy: 264, 90
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+d_dan_05
+  rotate: false
+  xy: 496, 156
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+d_dan_06
+  rotate: false
+  xy: 200, 70
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+d_dan_07
+  rotate: false
+  xy: 385, 165
+  size: 80, 42
+  orig: 80, 42
+  offset: 0, 0
+  index: -1
+d_dan_08
+  rotate: false
+  xy: 264, 102
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+d_dan_09
+  rotate: false
+  xy: 118, 64
+  size: 80, 42
+  orig: 80, 42
+  offset: 0, 0
+  index: -1
+d_dan_11
+  rotate: false
+  xy: 264, 209
+  size: 263, 176
+  orig: 263, 176
+  offset: 0, 0
+  index: -1
+e_dan_01
+  rotate: true
+  xy: 118, 2
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+e_dan_02
+  rotate: false
+  xy: 165, 2
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+e_dan_03
+  rotate: false
+  xy: 154, 26
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+e_dan_04
+  rotate: true
+  xy: 467, 171
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+e_dan_05
+  rotate: true
+  xy: 680, 488
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+e_dan_06
+  rotate: true
+  xy: 1431, 786
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+e_dan_07
+  rotate: false
+  xy: 680, 411
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+e_dan_08
+  rotate: false
+  xy: 1431, 771
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+e_dan_09
+  rotate: false
+  xy: 2, 13
+  size: 114, 93
+  orig: 114, 93
+  offset: 0, 0
+  index: -1
+e_dan_10
+  rotate: false
+  xy: 989, 682
+  size: 136, 131
+  orig: 136, 131
+  offset: 0, 0
+  index: -1
+e_dan_11
+  rotate: false
+  xy: 2, 108
+  size: 260, 277
+  orig: 260, 277
+  offset: 0, 0
+  index: -1
+fan_01
+  rotate: false
+  xy: 1458, 776
+  size: 588, 246
+  orig: 588, 246
+  offset: 0, 0
+  index: -1
+fan_02
+  rotate: false
+  xy: 2, 387
+  size: 676, 277
+  orig: 676, 277
+  offset: 0, 0
+  index: -1
+wan_01
+  rotate: false
+  xy: 2, 666
+  size: 726, 356
+  orig: 726, 356
+  offset: 0, 0
+  index: -1
+wan_03
+  rotate: false
+  xy: 730, 675
+  size: 257, 138
+  orig: 257, 138
+  offset: 0, 0
+  index: -1
+wan_04
+  rotate: false
+  xy: 730, 815
+  size: 726, 207
+  orig: 726, 207
+  offset: 0, 0
+  index: -1
+xiaoshou_01
+  rotate: false
+  xy: 467, 142
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+xiaoshou_02
+  rotate: false
+  xy: 680, 424
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1

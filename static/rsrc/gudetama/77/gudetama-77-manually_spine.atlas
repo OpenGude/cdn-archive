@@ -1,0 +1,48 @@
+
+gudetama-77-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+danqing1
+  rotate: false
+  xy: 623, 79
+  size: 148, 145
+  orig: 148, 145
+  offset: 0, 0
+  index: -1
+danqing2
+  rotate: false
+  xy: 2, 44
+  size: 390, 180
+  orig: 390, 180
+  offset: 0, 0
+  index: -1
+gaoguagn1
+  rotate: false
+  xy: 394, 53
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 394, 90
+  size: 227, 134
+  orig: 227, 134
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 773, 122
+  size: 92, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+zuosou
+  rotate: false
+  xy: 2, 2
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+gudetama-124-manually_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ashi_l
+  rotate: true
+  xy: 1912, 1708
+  size: 156, 92
+  orig: 156, 92
+  offset: 0, 0
+  index: -1
+ashi_r
+  rotate: true
+  xy: 1912, 1562
+  size: 144, 74
+  orig: 144, 74
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 518
+  size: 371, 415
+  orig: 371, 415
+  offset: 0, 0
+  index: -1
+dish
+  rotate: false
+  xy: 2, 1220
+  size: 1908, 826
+  orig: 1908, 826
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1912, 1866
+  size: 180, 87
+  orig: 180, 87
+  offset: 0, 0
+  index: -1
+lemon1
+  rotate: true
+  xy: 1073, 1038
+  size: 180, 342
+  orig: 180, 342
+  offset: 0, 0
+  index: -1
+lemon2
+  rotate: true
+  xy: 1417, 1044
+  size: 174, 337
+  orig: 174, 337
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 630, 952
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+shiromi
+  rotate: false
+  xy: 2, 935
+  size: 626, 283
+  orig: 626, 283
+  offset: 0, 0
+  index: -1
+te_l
+  rotate: true
+  xy: 1912, 1458
+  size: 102, 76
+  orig: 102, 76
+  offset: 0, 0
+  index: -1
+te_r
+  rotate: true
+  xy: 1912, 1377
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+tsubu
+  rotate: false
+  xy: 2, 2
+  size: 366, 147
+  orig: 366, 147
+  offset: 0, 0
+  index: -1
+tsubu2
+  rotate: true
+  xy: 375, 633
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+tsubu_light
+  rotate: false
+  xy: 375, 543
+  size: 229, 88
+  orig: 229, 88
+  offset: 0, 0
+  index: -1
+tsubu_light2
+  rotate: true
+  xy: 1756, 1034
+  size: 184, 162
+  orig: 184, 162
+  offset: 0, 0
+  index: -1
+umibudo
+  rotate: false
+  xy: 630, 1007
+  size: 441, 211
+  orig: 441, 211
+  offset: 0, 0
+  index: -1
+umibudo2
+  rotate: false
+  xy: 2, 151
+  size: 344, 365
+  orig: 344, 365
+  offset: 0, 0
+  index: -1

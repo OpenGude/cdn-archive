@@ -1,0 +1,90 @@
+
+gudetama-16-manually_spine.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 386, 151
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 106, 45
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 85
+  size: 243, 154
+  orig: 243, 154
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: true
+  xy: 106, 26
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 157, 60
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 247, 85
+  size: 137, 154
+  orig: 137, 154
+  offset: 0, 0
+  index: -1
+hoppe_1
+  rotate: false
+  xy: 438, 175
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+hoppe_2
+  rotate: false
+  xy: 386, 128
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 2, 22
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 386, 189
+  size: 94, 50
+  orig: 94, 50
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 482, 202
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 2, 2
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1

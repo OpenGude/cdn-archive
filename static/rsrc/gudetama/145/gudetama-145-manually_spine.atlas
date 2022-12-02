@@ -1,0 +1,125 @@
+
+gudetama-145-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 583, 93
+  size: 289, 157
+  orig: 289, 157
+  offset: 0, 0
+  index: -1
+danba1
+  rotate: false
+  xy: 2, 95
+  size: 579, 155
+  orig: 579, 155
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 1624, 164
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 1234, 183
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+face_niuqu
+  rotate: false
+  xy: 1402, 164
+  size: 117, 86
+  orig: 117, 86
+  offset: 0, 0
+  index: -1
+gebo
+  rotate: false
+  xy: 225, 65
+  size: 77, 28
+  orig: 77, 28
+  offset: 0, 0
+  index: -1
+glass01
+  rotate: false
+  xy: 874, 131
+  size: 189, 119
+  orig: 189, 119
+  offset: 0, 0
+  index: -1
+glass02
+  rotate: false
+  xy: 1521, 152
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 1624, 182
+  size: 112, 68
+  orig: 112, 68
+  offset: 0, 0
+  index: -1
+yanjingbianer01
+  rotate: false
+  xy: 1065, 174
+  size: 167, 76
+  orig: 167, 76
+  offset: 0, 0
+  index: -1
+yanjingbianer02
+  rotate: false
+  xy: 2, 2
+  size: 135, 42
+  orig: 135, 42
+  offset: 0, 0
+  index: -1
+yanjingkuang
+  rotate: false
+  xy: 139, 13
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+ying01
+  rotate: false
+  xy: 2, 46
+  size: 221, 47
+  orig: 221, 47
+  offset: 0, 0
+  index: -1
+ying02
+  rotate: false
+  xy: 1234, 202
+  size: 166, 48
+  orig: 166, 48
+  offset: 0, 0
+  index: -1
+ying03
+  rotate: true
+  xy: 1738, 187
+  size: 63, 89
+  orig: 63, 89
+  offset: 0, 0
+  index: -1
+ying04
+  rotate: false
+  xy: 874, 97
+  size: 87, 32
+  orig: 87, 32
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 1065, 156
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1

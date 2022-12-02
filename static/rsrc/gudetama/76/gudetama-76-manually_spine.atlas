@@ -1,0 +1,76 @@
+
+gudetama-76-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 928, 88
+  size: 293, 166
+  orig: 293, 166
+  offset: 0, 0
+  index: -1
+carrot
+  rotate: false
+  xy: 1420, 226
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+carrots
+  rotate: true
+  xy: 1223, 86
+  size: 168, 195
+  orig: 168, 195
+  offset: 0, 0
+  index: -1
+dish
+  rotate: false
+  xy: 2, 141
+  size: 546, 113
+  orig: 546, 113
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 384, 35
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+greens
+  rotate: false
+  xy: 2, 18
+  size: 294, 121
+  orig: 294, 121
+  offset: 0, 0
+  index: -1
+hata
+  rotate: true
+  xy: 298, 2
+  size: 59, 84
+  orig: 59, 84
+  offset: 0, 0
+  index: -1
+rice1
+  rotate: true
+  xy: 928, 23
+  size: 63, 124
+  orig: 63, 124
+  offset: 0, 0
+  index: -1
+rice2
+  rotate: false
+  xy: 550, 16
+  size: 376, 238
+  orig: 376, 238
+  offset: 0, 0
+  index: -1
+spoon
+  rotate: false
+  xy: 298, 63
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,405 @@
+
+efx_spine-workmanship_result.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_ha
+  rotate: false
+  xy: 992, 294
+  size: 136, 93
+  orig: 136, 93
+  offset: 0, 0
+  index: -1
+01_ryou
+  rotate: false
+  xy: 1220, 596
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+02_pu
+  rotate: true
+  xy: 625, 335
+  size: 124, 141
+  orig: 124, 141
+  offset: 0, 0
+  index: -1
+02_ri
+  rotate: false
+  xy: 1880, 714
+  size: 152, 144
+  orig: 152, 144
+  offset: 0, 0
+  index: -1
+03_ni
+  rotate: false
+  xy: 721, 79
+  size: 112, 119
+  orig: 112, 119
+  offset: 0, 0
+  index: -1
+03_si
+  rotate: false
+  xy: 1492, 747
+  size: 65, 114
+  orig: 65, 114
+  offset: 0, 0
+  index: -1
+04_n
+  rotate: false
+  xy: 768, 338
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+04_xtu
+  rotate: false
+  xy: 1206, 462
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+05_gu
+  rotate: false
+  xy: 1372, 601
+  size: 123, 144
+  orig: 123, 144
+  offset: 0, 0
+  index: -1
+05_pa
+  rotate: false
+  xy: 1727, 651
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+06_hatxu
+  rotate: false
+  xy: 1497, 628
+  size: 117, 117
+  orig: 117, 117
+  offset: 0, 0
+  index: -1
+06_i
+  rotate: true
+  xy: 895, 112
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+07__
+  rotate: false
+  xy: 835, 111
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+07_sei
+  rotate: false
+  xy: 1616, 645
+  size: 109, 117
+  orig: 109, 117
+  offset: 0, 0
+  index: -1
+08__
+  rotate: true
+  xy: 1220, 543
+  size: 51, 113
+  orig: 51, 113
+  offset: 0, 0
+  index: -1
+09__
+  rotate: false
+  xy: 819, 226
+  size: 74, 110
+  orig: 74, 110
+  offset: 0, 0
+  index: -1
+circlea_ring_white
+  rotate: false
+  xy: 2, 16
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+circlea_ring_yellow
+  rotate: false
+  xy: 576, 696
+  size: 326, 326
+  orig: 326, 326
+  offset: 0, 0
+  index: -1
+de
+  rotate: false
+  xy: 522, 338
+  size: 101, 121
+  orig: 101, 121
+  offset: 0, 0
+  index: -1
+dousa01_01
+  rotate: false
+  xy: 904, 903
+  size: 406, 119
+  orig: 406, 119
+  offset: 0, 0
+  index: -1
+dousa02_01
+  rotate: true
+  xy: 1312, 921
+  size: 101, 302
+  orig: 101, 302
+  offset: 0, 0
+  index: -1
+dousa02_02
+  rotate: false
+  xy: 579, 221
+  size: 140, 112
+  orig: 140, 112
+  offset: 0, 0
+  index: -1
+drop
+  rotate: true
+  xy: 616, 66
+  size: 54, 89
+  orig: 54, 89
+  offset: 0, 0
+  index: -1
+frying_pan
+  rotate: false
+  xy: 2, 616
+  size: 572, 406
+  orig: 572, 406
+  offset: 0, 0
+  index: -1
+ki
+  rotate: false
+  xy: 895, 221
+  size: 87, 114
+  orig: 87, 114
+  offset: 0, 0
+  index: -1
+kimi01_01
+  rotate: false
+  xy: 992, 564
+  size: 226, 187
+  orig: 226, 187
+  offset: 0, 0
+  index: -1
+kimi02_01
+  rotate: true
+  xy: 992, 389
+  size: 173, 191
+  orig: 173, 191
+  offset: 0, 0
+  index: -1
+kimi03_01
+  rotate: true
+  xy: 579, 122
+  size: 97, 140
+  orig: 97, 140
+  offset: 0, 0
+  index: -1
+ku
+  rotate: true
+  xy: 984, 205
+  size: 87, 129
+  orig: 87, 129
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 558, 147
+  size: 19, 189
+  orig: 19, 189
+  offset: 0, 0
+  index: -1
+line02
+  rotate: false
+  xy: 1185, 421
+  size: 19, 141
+  orig: 19, 141
+  offset: 0, 0
+  index: -1
+line03
+  rotate: true
+  xy: 1497, 607
+  size: 19, 113
+  orig: 19, 113
+  offset: 0, 0
+  index: -1
+line04
+  rotate: true
+  xy: 904, 732
+  size: 19, 86
+  orig: 19, 86
+  offset: 0, 0
+  index: -1
+ma
+  rotate: false
+  xy: 895, 337
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+sara01_01
+  rotate: false
+  xy: 2, 338
+  size: 518, 276
+  orig: 518, 276
+  offset: 0, 0
+  index: -1
+shiromi01_01
+  rotate: false
+  xy: 904, 753
+  size: 354, 148
+  orig: 354, 148
+  offset: 0, 0
+  index: -1
+si
+  rotate: false
+  xy: 1130, 281
+  size: 76, 106
+  orig: 76, 106
+  offset: 0, 0
+  index: -1
+siromi03_01
+  rotate: false
+  xy: 817, 456
+  size: 173, 238
+  orig: 173, 238
+  offset: 0, 0
+  index: -1
+stamp
+  rotate: false
+  xy: 1880, 860
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+star01_bule
+  rotate: false
+  xy: 558, 60
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+star01_green
+  rotate: false
+  xy: 1208, 272
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+star01_pink
+  rotate: false
+  xy: 1183, 211
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+star01_purple
+  rotate: false
+  xy: 1208, 335
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+star01_red
+  rotate: true
+  xy: 1287, 476
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+star01_sky_blue
+  rotate: true
+  xy: 1206, 399
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+star01_yellow
+  rotate: false
+  xy: 1115, 210
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+ta
+  rotate: true
+  xy: 981, 100
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+tamago_kara_01
+  rotate: true
+  xy: 324, 60
+  size: 276, 232
+  orig: 276, 232
+  offset: 0, 0
+  index: -1
+tamago_kara_02
+  rotate: true
+  xy: 556, 2
+  size: 56, 230
+  orig: 56, 230
+  offset: 0, 0
+  index: -1
+tamago_kara_02_01
+  rotate: true
+  xy: 1312, 863
+  size: 56, 230
+  orig: 56, 230
+  offset: 0, 0
+  index: -1
+tamago_kara_02_02
+  rotate: true
+  xy: 1260, 805
+  size: 56, 230
+  orig: 56, 230
+  offset: 0, 0
+  index: -1
+tamago_kara_02_03
+  rotate: true
+  xy: 1260, 747
+  size: 56, 230
+  orig: 56, 230
+  offset: 0, 0
+  index: -1
+tamago_kara_02_04
+  rotate: true
+  xy: 324, 2
+  size: 56, 230
+  orig: 56, 230
+  offset: 0, 0
+  index: -1
+tamago_kara_l
+  rotate: false
+  xy: 1616, 764
+  size: 262, 258
+  orig: 262, 258
+  offset: 0, 0
+  index: -1
+tamago_kara_r
+  rotate: true
+  xy: 576, 461
+  size: 233, 239
+  orig: 233, 239
+  offset: 0, 0
+  index: -1
+yo
+  rotate: false
+  xy: 721, 200
+  size: 96, 133
+  orig: 96, 133
+  offset: 0, 0
+  index: -1
+！
+  rotate: false
+  xy: 522, 498
+  size: 52, 116
+  orig: 52, 116
+  offset: 0, 0
+  index: -1

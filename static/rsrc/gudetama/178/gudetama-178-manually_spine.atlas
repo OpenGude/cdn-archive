@@ -1,0 +1,181 @@
+
+gudetama-178-manually_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Green onion
+  rotate: false
+  xy: 1070, 929
+  size: 375, 172
+  orig: 375, 172
+  offset: 0, 0
+  index: -1
+Source
+  rotate: true
+  xy: 266, 272
+  size: 919, 205
+  orig: 919, 205
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1648, 1535
+  size: 286, 168
+  orig: 286, 168
+  offset: 0, 0
+  index: -1
+chopsticks01_left
+  rotate: false
+  xy: 1084, 1299
+  size: 441, 235
+  orig: 441, 235
+  offset: 0, 0
+  index: -1
+chopsticks01_right
+  rotate: true
+  xy: 832, 750
+  size: 441, 236
+  orig: 441, 236
+  offset: 0, 0
+  index: -1
+chopsticks02_left
+  rotate: false
+  xy: 473, 311
+  size: 456, 194
+  orig: 456, 194
+  offset: 0, 0
+  index: -1
+chopsticks02_right
+  rotate: false
+  xy: 1084, 1103
+  size: 456, 194
+  orig: 456, 194
+  offset: 0, 0
+  index: -1
+chopsticks03_left
+  rotate: false
+  xy: 1088, 1620
+  size: 558, 83
+  orig: 558, 83
+  offset: 0, 0
+  index: -1
+chopsticks03_right
+  rotate: false
+  xy: 1088, 1536
+  size: 558, 82
+  orig: 558, 82
+  offset: 0, 0
+  index: -1
+dish_1
+  rotate: true
+  xy: 2, 107
+  size: 1084, 262
+  orig: 1084, 262
+  offset: 0, 0
+  index: -1
+dish_2
+  rotate: false
+  xy: 2, 1554
+  size: 1084, 486
+  orig: 1084, 486
+  offset: 0, 0
+  index: -1
+dish_3
+  rotate: false
+  xy: 832, 525
+  size: 263, 223
+  orig: 263, 223
+  offset: 0, 0
+  index: -1
+dish_4
+  rotate: true
+  xy: 473, 507
+  size: 684, 357
+  orig: 684, 357
+  offset: 0, 0
+  index: -1
+dish_5
+  rotate: false
+  xy: 2, 1193
+  size: 1080, 359
+  orig: 1080, 359
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 473, 212
+  size: 357, 97
+  orig: 357, 97
+  offset: 0, 0
+  index: -1
+kao
+  rotate: true
+  xy: 1957, 1922
+  size: 118, 53
+  orig: 118, 53
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 1527, 1489
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+meat_1
+  rotate: false
+  xy: 1097, 598
+  size: 277, 186
+  orig: 277, 186
+  offset: 0, 0
+  index: -1
+meat_2
+  rotate: true
+  xy: 931, 246
+  size: 277, 186
+  orig: 277, 186
+  offset: 0, 0
+  index: -1
+noodles
+  rotate: false
+  xy: 1088, 1705
+  size: 867, 335
+  orig: 867, 335
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 1447, 1048
+  size: 81, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 2, 2
+  size: 103, 125
+  orig: 103, 125
+  offset: 0, 0
+  index: -1
+ring_1
+  rotate: false
+  xy: 266, 144
+  size: 198, 126
+  orig: 198, 126
+  offset: 0, 0
+  index: -1
+ring_2
+  rotate: true
+  xy: 1376, 586
+  size: 198, 126
+  orig: 198, 126
+  offset: 0, 0
+  index: -1
+shiromi
+  rotate: false
+  xy: 1070, 786
+  size: 378, 141
+  orig: 378, 141
+  offset: 0, 0
+  index: -1

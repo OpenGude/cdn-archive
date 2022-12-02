@@ -1,0 +1,20 @@
+
+efx_spine-weather_spine.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud
+  rotate: false
+  xy: 2, 2
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 86, 30
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

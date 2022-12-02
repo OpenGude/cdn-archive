@@ -1,0 +1,146 @@
+
+gudetama-60-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 1632, 25
+  size: 155, 229
+  orig: 155, 229
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 2, 13
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 1103, 6
+  size: 248, 179
+  orig: 248, 179
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 1284, 2
+  size: 252, 172
+  orig: 252, 172
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 1867, 30
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 1789, 134
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 1458, 2
+  size: 252, 172
+  orig: 252, 172
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 98, 46
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 78, 5
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 46, 4
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 46, 23
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 200, 29
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 840, 67
+  size: 261, 187
+  orig: 261, 187
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 168, 20
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 236, 40
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 1891, 161
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 1789, 3
+  size: 129, 76
+  orig: 129, 76
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 110, 11
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 567, 39
+  size: 215, 271
+  orig: 215, 271
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 2, 77
+  size: 563, 177
+  orig: 563, 177
+  offset: 0, 0
+  index: -1

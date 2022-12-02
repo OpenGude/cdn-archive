@@ -1,0 +1,104 @@
+
+gudetama-30-manually_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bread
+  rotate: false
+  xy: 1331, 295
+  size: 341, 215
+  orig: 341, 215
+  offset: 0, 0
+  index: -1
+Bread2
+  rotate: false
+  xy: 915, 247
+  size: 414, 263
+  orig: 414, 263
+  offset: 0, 0
+  index: -1
+Bread3
+  rotate: false
+  xy: 459, 213
+  size: 454, 297
+  orig: 454, 297
+  offset: 0, 0
+  index: -1
+Bread4
+  rotate: false
+  xy: 2, 213
+  size: 455, 297
+  orig: 455, 297
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: false
+  xy: 2, 2
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 1857, 484
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1674, 368
+  size: 181, 142
+  orig: 181, 142
+  offset: 0, 0
+  index: -1
+egg_s
+  rotate: false
+  xy: 915, 227
+  size: 71, 18
+  orig: 71, 18
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 45, 25
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 306, 147
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 306, 158
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1674, 352
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1331, 266
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+white_egg
+  rotate: false
+  xy: 2, 41
+  size: 302, 170
+  orig: 302, 170
+  offset: 0, 0
+  index: -1

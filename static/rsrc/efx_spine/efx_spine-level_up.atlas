@@ -1,0 +1,125 @@
+
+efx_spine-level_up.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m01_00
+  rotate: true
+  xy: 210, 157
+  size: 72, 39
+  orig: 93, 47
+  offset: 12, 2
+  index: -1
+m01_E
+  rotate: false
+  xy: 148, 146
+  size: 60, 83
+  orig: 72, 92
+  offset: 4, 5
+  index: -1
+m01_E02
+  rotate: true
+  xy: 435, 466
+  size: 44, 75
+  orig: 52, 86
+  offset: 4, 5
+  index: -1
+m01_L
+  rotate: false
+  xy: 365, 440
+  size: 68, 70
+  orig: 77, 91
+  offset: 6, 6
+  index: -1
+m01_L02
+  rotate: false
+  xy: 72, 28
+  size: 48, 73
+  orig: 60, 81
+  offset: 2, 3
+  index: -1
+m01_P
+  rotate: true
+  xy: 283, 353
+  size: 81, 62
+  orig: 101, 74
+  offset: 5, 6
+  index: -1
+m01_U
+  rotate: false
+  xy: 283, 436
+  size: 80, 74
+  orig: 90, 85
+  offset: 6, 5
+  index: -1
+m01_V
+  rotate: false
+  xy: 2, 25
+  size: 68, 76
+  orig: 72, 92
+  offset: 3, 8
+  index: -1
+m01_gude
+  rotate: false
+  xy: 2, 103
+  size: 144, 126
+  orig: 144, 126
+  offset: 0, 0
+  index: -1
+m01_star01
+  rotate: false
+  xy: 148, 109
+  size: 37, 35
+  orig: 39, 40
+  offset: 1, 2
+  index: -1
+m01_star02
+  rotate: false
+  xy: 283, 256
+  size: 36, 36
+  orig: 38, 40
+  offset: 2, 2
+  index: -1
+m01_star03
+  rotate: false
+  xy: 251, 200
+  size: 28, 29
+  orig: 33, 29
+  offset: 3, 0
+  index: -1
+m01_star04
+  rotate: true
+  xy: 72, 2
+  size: 24, 25
+  orig: 30, 26
+  offset: 3, 1
+  index: -1
+m01_star05
+  rotate: false
+  xy: 2, 2
+  size: 21, 21
+  orig: 29, 24
+  offset: 3, 2
+  index: -1
+m01_star06
+  rotate: false
+  xy: 435, 447
+  size: 18, 17
+  orig: 24, 19
+  offset: 3, 1
+  index: -1
+m01_tamago_lv
+  rotate: false
+  xy: 283, 294
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+m01_waku
+  rotate: false
+  xy: 2, 231
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1

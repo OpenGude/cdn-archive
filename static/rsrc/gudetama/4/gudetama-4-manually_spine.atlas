@@ -1,0 +1,41 @@
+
+gudetama-4-manually_spine.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 319, 208
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+eyebow
+  rotate: false
+  xy: 2, 2
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+kimi
+  rotate: false
+  xy: 2, 43
+  size: 174, 192
+  orig: 174, 192
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 82, 22
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+shiro2
+  rotate: false
+  xy: 178, 44
+  size: 139, 191
+  orig: 139, 191
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+gudetama-63-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ashi
+  rotate: false
+  xy: 747, 106
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+atama
+  rotate: false
+  xy: 568, 98
+  size: 177, 138
+  orig: 177, 138
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 376, 93
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+kuchi
+  rotate: false
+  xy: 747, 185
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 747, 150
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+me
+  rotate: false
+  xy: 2, 91
+  size: 105, 26
+  orig: 105, 26
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 747, 217
+  size: 110, 19
+  orig: 110, 19
+  offset: 0, 0
+  index: -1
+shiromi
+  rotate: false
+  xy: 2, 119
+  size: 372, 117
+  orig: 372, 117
+  offset: 0, 0
+  index: -1
+shiwa
+  rotate: false
+  xy: 109, 91
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+te_l
+  rotate: false
+  xy: 2, 2
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+te_r
+  rotate: false
+  xy: 2, 41
+  size: 77, 48
+  orig: 77, 48
+  offset: 0, 0
+  index: -1

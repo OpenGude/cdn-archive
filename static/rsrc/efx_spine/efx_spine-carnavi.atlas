@@ -1,0 +1,20 @@
+
+efx_spine-carnavi.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+carnavi_off
+  rotate: false
+  xy: 2, 30
+  size: 144, 91
+  orig: 144, 91
+  offset: 0, 0
+  index: -1
+off_effect
+  rotate: false
+  xy: 2, 2
+  size: 116, 26
+  orig: 116, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+gudetama-96-manually_spine.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 1643, 109
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 1834, 216
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 1017, 22
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 1643, 69
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 1683, 109
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 1834, 176
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 1874, 216
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 1057, 22
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 1683, 69
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1723, 109
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1874, 176
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1914, 216
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+B_BACK
+  rotate: false
+  xy: 2, 22
+  size: 426, 232
+  orig: 426, 232
+  offset: 0, 0
+  index: -1
+B_BOTTOM
+  rotate: false
+  xy: 1643, 149
+  size: 189, 105
+  orig: 189, 105
+  offset: 0, 0
+  index: -1
+B_FRONT
+  rotate: false
+  xy: 829, 62
+  size: 423, 192
+  orig: 423, 192
+  offset: 0, 0
+  index: -1
+B_INSIDE
+  rotate: false
+  xy: 1254, 40
+  size: 387, 214
+  orig: 387, 214
+  offset: 0, 0
+  index: -1
+EGGS
+  rotate: false
+  xy: 430, 3
+  size: 397, 251
+  orig: 397, 251
+  offset: 0, 0
+  index: -1
+G1
+  rotate: false
+  xy: 976, 22
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+G2
+  rotate: false
+  xy: 1097, 22
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+G3
+  rotate: false
+  xy: 1723, 69
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+G4
+  rotate: false
+  xy: 1763, 109
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+NEGI
+  rotate: false
+  xy: 829, 2
+  size: 145, 58
+  orig: 145, 58
+  offset: 0, 0
+  index: -1

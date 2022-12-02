@@ -1,0 +1,62 @@
+
+mb-011_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 2
+  size: 700, 450
+  orig: 700, 450
+  offset: 0, 0
+  index: -1
+chara00
+  rotate: false
+  xy: 1791, 8
+  size: 234, 444
+  orig: 234, 444
+  offset: 0, 0
+  index: -1
+chara01
+  rotate: true
+  xy: 702, 126
+  size: 234, 461
+  orig: 234, 461
+  offset: 0, 0
+  index: -1
+chara02
+  rotate: true
+  xy: 1329, 218
+  size: 234, 461
+  orig: 234, 461
+  offset: 0, 0
+  index: -1
+questefx0@kirakira1
+  rotate: false
+  xy: 1088, 61
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 702, 1
+  size: 385, 124
+  orig: 385, 124
+  offset: 0, 0
+  index: -1
+text2
+  rotate: true
+  xy: 1164, 67
+  size: 293, 151
+  orig: 293, 151
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 702, 361
+  size: 626, 91
+  orig: 626, 91
+  offset: 0, 0
+  index: -1

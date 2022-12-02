@@ -1,0 +1,125 @@
+
+gudetama-167-manually_spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_kimi
+  rotate: true
+  xy: 439, 177
+  size: 199, 229
+  orig: 199, 229
+  offset: 0, 0
+  index: -1
+11_kao
+  rotate: true
+  xy: 353, 62
+  size: 97, 51
+  orig: 97, 51
+  offset: 0, 0
+  index: -1
+12_migiasi
+  rotate: false
+  xy: 761, 754
+  size: 135, 75
+  orig: 135, 75
+  offset: 0, 0
+  index: -1
+13_kimi_raito
+  rotate: false
+  xy: 761, 695
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+14_kage
+  rotate: false
+  xy: 1776, 1619
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+15_kimi_men
+  rotate: true
+  xy: 1776, 1736
+  size: 303, 241
+  orig: 303, 241
+  offset: 0, 0
+  index: -1
+16_migite
+  rotate: false
+  xy: 1863, 1685
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+17_hidariasi
+  rotate: false
+  xy: 1776, 1664
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+1_sara
+  rotate: false
+  xy: 2, 1318
+  size: 929, 721
+  orig: 929, 721
+  offset: 0, 0
+  index: -1
+2_men1
+  rotate: false
+  xy: 933, 1616
+  size: 841, 423
+  orig: 841, 423
+  offset: 0, 0
+  index: -1
+3_men2
+  rotate: false
+  xy: 2, 378
+  size: 757, 451
+  orig: 757, 451
+  offset: 0, 0
+  index: -1
+4_siru
+  rotate: false
+  xy: 933, 1350
+  size: 499, 264
+  orig: 499, 264
+  offset: 0, 0
+  index: -1
+5_sarasokumen
+  rotate: false
+  xy: 2, 831
+  size: 914, 485
+  orig: 914, 485
+  offset: 0, 0
+  index: -1
+6_negi
+  rotate: false
+  xy: 2, 2
+  size: 349, 157
+  orig: 349, 157
+  offset: 0, 0
+  index: -1
+7_raito
+  rotate: false
+  xy: 1434, 1307
+  size: 329, 307
+  orig: 329, 307
+  offset: 0, 0
+  index: -1
+8_hidarite
+  rotate: false
+  xy: 670, 318
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+9_siro
+  rotate: false
+  xy: 2, 161
+  size: 435, 215
+  orig: 435, 215
+  offset: 0, 0
+  index: -1

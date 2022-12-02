@@ -1,0 +1,251 @@
+
+gudetama-144-manually_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_body
+  rotate: true
+  xy: 1043, 73
+  size: 173, 101
+  orig: 173, 101
+  offset: 0, 0
+  index: -1
+a_dai_01
+  rotate: false
+  xy: 2, 78
+  size: 323, 116
+  orig: 323, 116
+  offset: 0, 0
+  index: -1
+a_dg_01
+  rotate: false
+  xy: 1146, 100
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+a_dg_02
+  rotate: true
+  xy: 2017, 410
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+a_eye_01
+  rotate: false
+  xy: 2, 2
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+a_eye_02
+  rotate: false
+  xy: 1112, 2
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+a_tui_01
+  rotate: false
+  xy: 1043, 2
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+a_tui_02
+  rotate: true
+  xy: 2017, 457
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+a_tui_03
+  rotate: true
+  xy: 1112, 19
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+a_zui_01
+  rotate: false
+  xy: 1579, 284
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+b_body_01
+  rotate: false
+  xy: 1855, 371
+  size: 160, 139
+  orig: 160, 139
+  offset: 0, 0
+  index: -1
+b_dai_01
+  rotate: false
+  xy: 748, 27
+  size: 293, 219
+  orig: 293, 219
+  offset: 0, 0
+  index: -1
+b_dg_01
+  rotate: false
+  xy: 371, 85
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+b_dg_02
+  rotate: false
+  xy: 1518, 283
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1
+b_eye_01
+  rotate: true
+  xy: 733, 176
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+b_eye_02
+  rotate: false
+  xy: 1146, 82
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+b_tui_01
+  rotate: true
+  xy: 1146, 196
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+b_tui_02
+  rotate: false
+  xy: 2, 16
+  size: 104, 60
+  orig: 104, 60
+  offset: 0, 0
+  index: -1
+b_tui_03
+  rotate: false
+  xy: 1855, 314
+  size: 102, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+b_tui_04
+  rotate: true
+  xy: 327, 73
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+b_zui_01
+  rotate: false
+  xy: 1181, 250
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+bo
+  rotate: false
+  xy: 280, 38
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+fan_01
+  rotate: false
+  xy: 1181, 276
+  size: 335, 234
+  orig: 335, 234
+  offset: 0, 0
+  index: -1
+pan
+  rotate: false
+  xy: 2, 196
+  size: 744, 314
+  orig: 744, 314
+  offset: 0, 0
+  index: -1
+shao_01
+  rotate: true
+  xy: 445, 100
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+shao_02
+  rotate: false
+  xy: 327, 107
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1
+shao_03
+  rotate: false
+  xy: 1518, 307
+  size: 335, 203
+  orig: 335, 203
+  offset: 0, 0
+  index: -1
+tuan_01
+  rotate: true
+  xy: 1146, 149
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+tuan_02
+  rotate: false
+  xy: 545, 112
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+tuan_03
+  rotate: false
+  xy: 167, 34
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+tuan_04
+  rotate: false
+  xy: 1959, 321
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+tuan_05
+  rotate: false
+  xy: 221, 39
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+tuan_06
+  rotate: false
+  xy: 637, 119
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+tuan_07
+  rotate: false
+  xy: 108, 19
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+zi_02
+  rotate: false
+  xy: 748, 248
+  size: 431, 262
+  orig: 431, 262
+  offset: 0, 0
+  index: -1

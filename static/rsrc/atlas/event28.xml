@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="event28.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="event28@balloon_reward"	x="454"	y="723"	width="237"	height="56"/>
+	<SubTexture name="event28@banner01"	x="0"	y="789"	width="438"	height="77"/>
+	<SubTexture name="event28@btn01"	x="1063"	y="768"	width="75"	height="88"/>
+	<SubTexture name="event28@btn_01"	x="823"	y="623"	width="159"	height="56"/>
+	<SubTexture name="event28@btn_02"	x="925"	y="264"	width="159"	height="56"/>
+	<SubTexture name="event28@btn_03"	x="823"	y="207"	width="159"	height="56"/>
+	<SubTexture name="event28@btn_exchange_l"	x="983"	y="623"	width="121"	height="66"/>
+	<SubTexture name="event28@btn_exchange_s"	x="983"	y="207"	width="94"	height="56"/>
+	<SubTexture name="event28@btn_next"	x="559"	y="392"	width="139"	height="43"/>
+	<SubTexture name="event28@btn_play"	x="991"	y="450"	width="98"	height="57"/>
+	<SubTexture name="event28@btn_prev"	x="644"	y="978"	width="138"	height="43"/>
+	<SubTexture name="event28@btn_ranking"	x="991"	y="508"	width="94"	height="56"/>
+	<SubTexture name="event28@btn_reward"	x="1078"	y="207"	width="94"	height="56"/>
+	<SubTexture name="event28@circle"	x="1063"	y="690"	width="77"	height="77"/>
+	<SubTexture name="event28@compbar1"	x="345"	y="924"	width="64"	height="47"/>
+	<SubTexture name="event28@compbar2"	x="345"	y="978"	width="298"	height="32"/>
+	<SubTexture name="event28@flag"	x="1105"	y="634"	width="45"	height="53"/>
+	<SubTexture name="event28@frame01"	x="454"	y="606"	width="89"	height="83"/>
+	<SubTexture name="event28@frame02"	x="753"	y="270"	width="171"	height="89"/>
+	<SubTexture name="event28@frame03"	x="823"	y="360"	width="171"	height="89"/>
+	<SubTexture name="event28@friend_item"	x="1080"	y="355"	width="70"	height="59"/>
+	<SubTexture name="event28@get"	x="559"	y="292"	width="193"	height="99"/>
+	<SubTexture name="event28@item"	x="1085"	y="264"	width="50"	height="51"/>
+	<SubTexture name="event28@level"	x="1105"	y="576"	width="49"	height="57"/>
+	<SubTexture name="event28@level_l"	x="1090"	y="415"	width="66"	height="79"/>
+	<SubTexture name="event28@line_white"	x="0"	y="1020"	width="19"	height="2"/>
+	<SubTexture name="event28@lump"	x="439"	y="789"	width="361"	height="188"/>
+	<SubTexture name="event28@mat01"	x="1063"	y="986"	width="22"	height="37"/>
+	<SubTexture name="event28@mat02"	x="1119"	y="316"	width="43"	height="38"/>
+	<SubTexture name="event28@mat_exchangenum"	x="1063"	y="857"	width="72"	height="58"/>
+	<SubTexture name="event28@mat_level"	x="1063"	y="916"	width="71"	height="69"/>
+	<SubTexture name="event28@mat_name"	x="109"	y="992"	width="54"	height="26"/>
+	<SubTexture name="event28@mat_number"	x="1044"	y="576"	width="50"	height="37"/>
+	<SubTexture name="event28@mat_p"	x="0"	y="867"	width="432"	height="56"/>
+	<SubTexture name="event28@mat_ranking"	x="1086"	y="508"	width="68"	height="67"/>
+	<SubTexture name="event28@mat_rewardnum"	x="1045"	y="321"	width="73"	height="33"/>
+	<SubTexture name="event28@mat_term01"	x="0"	y="924"	width="344"	height="67"/>
+	<SubTexture name="event28@mat_white"	x="995"	y="355"	width="84"	height="71"/>
+	<SubTexture name="event28@p"	x="991"	y="565"	width="52"	height="52"/>
+	<SubTexture name="event28@poster01"	x="985"	y="0"	width="161"	height="206"/>
+	<SubTexture name="event28@poster02"	x="823"	y="0"	width="161"	height="206"/>
+	<SubTexture name="event28@poster_l"	x="545"	y="436"	width="277"	height="286"/>
+	<SubTexture name="event28@poster_l_01"	x="801"	y="723"	width="261"	height="269"/>
+	<SubTexture name="event28@poster_l_02"	x="561"	y="0"	width="261"	height="269"/>
+	<SubTexture name="event28@redux"	x="692"	y="723"	width="103"	height="52"/>
+	<SubTexture name="event28@reward"	x="823"	y="450"	width="167"	height="172"/>
+	<SubTexture name="event28@ribbon01"	x="925"	y="321"	width="119"	height="33"/>
+	<SubTexture name="event28@ribbon02"	x="823"	y="680"	width="119"	height="33"/>
+	<SubTexture name="event28@ribbon03"	x="699"	y="392"	width="119"	height="33"/>
+	<SubTexture name="event28@ribbon04"	x="0"	y="992"	width="108"	height="27"/>
+	<SubTexture name="event28@tab01"	x="0"	y="0"	width="560"	height="145"/>
+	<SubTexture name="event28@tab02"	x="0"	y="146"	width="560"	height="145"/>
+	<SubTexture name="event28@title01"	x="0"	y="606"	width="453"	height="182"/>
+	<SubTexture name="event28@title02"	x="0"	y="292"	width="558"	height="143"/>
+	<SubTexture name="event28@title03"	x="0"	y="521"	width="544"	height="84"/>
+	<SubTexture name="event28@title04"	x="0"	y="436"	width="544"	height="84"/>
+</TextureAtlas>

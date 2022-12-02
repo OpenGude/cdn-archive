@@ -1,0 +1,202 @@
+
+gudetama-165-manually_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_ahi_r
+  rotate: false
+  xy: 1361, 320
+  size: 157, 84
+  orig: 157, 84
+  offset: 0, 0
+  index: -1
+1_ashi_l
+  rotate: false
+  xy: 609, 187
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+1_body
+  rotate: false
+  xy: 216, 54
+  size: 221, 254
+  orig: 221, 254
+  offset: 0, 0
+  index: -1
+1_face
+  rotate: false
+  xy: 606, 336
+  size: 114, 45
+  orig: 114, 45
+  offset: 0, 0
+  index: -1
+1_ribbon
+  rotate: false
+  xy: 609, 123
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+1_te_l
+  rotate: false
+  xy: 823, 325
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+1_te_r
+  rotate: false
+  xy: 707, 289
+  size: 73, 45
+  orig: 73, 45
+  offset: 0, 0
+  index: -1
+2_ashi_l
+  rotate: false
+  xy: 884, 339
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+2_ashi_l_1
+  rotate: true
+  xy: 539, 2
+  size: 112, 62
+  orig: 112, 62
+  offset: 0, 0
+  index: -1
+2_ashi_r
+  rotate: false
+  xy: 390, 9
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+2_ashi_r_1
+  rotate: false
+  xy: 609, 255
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+2_body
+  rotate: false
+  xy: 2, 40
+  size: 212, 268
+  orig: 212, 268
+  offset: 0, 0
+  index: -1
+2_face
+  rotate: false
+  xy: 722, 336
+  size: 99, 45
+  orig: 99, 45
+  offset: 0, 0
+  index: -1
+2_ribbon
+  rotate: true
+  xy: 439, 2
+  size: 112, 98
+  orig: 112, 98
+  offset: 0, 0
+  index: -1
+2_te_l
+  rotate: false
+  xy: 275, 7
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+2_te_r
+  rotate: false
+  xy: 341, 7
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 1361, 406
+  size: 186, 104
+  orig: 186, 104
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: false
+  xy: 606, 383
+  size: 277, 127
+  orig: 277, 127
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: false
+  xy: 1163, 387
+  size: 196, 123
+  orig: 196, 123
+  offset: 0, 0
+  index: -1
+hat_3
+  rotate: false
+  xy: 885, 382
+  size: 276, 128
+  orig: 276, 128
+  offset: 0, 0
+  index: -1
+ikari
+  rotate: true
+  xy: 1520, 375
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+kaji_1
+  rotate: true
+  xy: 1549, 371
+  size: 139, 157
+  orig: 139, 157
+  offset: 0, 0
+  index: -1
+kaji_2
+  rotate: true
+  xy: 1708, 371
+  size: 139, 157
+  orig: 139, 157
+  offset: 0, 0
+  index: -1
+kaji_3
+  rotate: true
+  xy: 1867, 383
+  size: 127, 145
+  orig: 127, 145
+  offset: 0, 0
+  index: -1
+kaji_4
+  rotate: false
+  xy: 439, 116
+  size: 168, 192
+  orig: 168, 192
+  offset: 0, 0
+  index: -1
+right
+  rotate: true
+  xy: 2014, 427
+  size: 83, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 216, 2
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+shiromi
+  rotate: false
+  xy: 2, 310
+  size: 602, 200
+  orig: 602, 200
+  offset: 0, 0
+  index: -1

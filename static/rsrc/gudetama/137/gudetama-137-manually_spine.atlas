@@ -1,0 +1,90 @@
+
+gudetama-137-manually_spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 18
+  size: 236, 304
+  orig: 236, 304
+  offset: 0, 0
+  index: -1
+body_shadow
+  rotate: false
+  xy: 308, 21
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 308, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+head_ring_l
+  rotate: false
+  xy: 308, 97
+  size: 136, 50
+  orig: 136, 50
+  offset: 0, 0
+  index: -1
+head_ring_r
+  rotate: false
+  xy: 476, 152
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+head_tekari
+  rotate: false
+  xy: 661, 209
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 595, 201
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: false
+  xy: 476, 195
+  size: 117, 59
+  orig: 117, 59
+  offset: 0, 0
+  index: -1
+leg_02
+  rotate: false
+  xy: 308, 149
+  size: 166, 105
+  orig: 166, 105
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 404, 37
+  size: 58, 21
+  orig: 58, 21
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 365, 30
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+ryr_r
+  rotate: false
+  xy: 336, 2
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1

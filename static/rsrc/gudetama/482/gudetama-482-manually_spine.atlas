@@ -1,0 +1,167 @@
+
+gudetama-482-manually_spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 411, 53
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+armR
+  rotate: true
+  xy: 2, 2
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1008, 186
+  size: 202, 198
+  orig: 202, 198
+  offset: 0, 0
+  index: -1
+bubble1
+  rotate: false
+  xy: 1632, 393
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: false
+  xy: 474, 67
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+bubble3
+  rotate: false
+  xy: 1915, 478
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 54, 24
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: false
+  xy: 1057, 168
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 2, 85
+  size: 407, 418
+  orig: 407, 418
+  offset: 0, 0
+  index: -1
+glass2
+  rotate: false
+  xy: 2, 42
+  size: 407, 41
+  orig: 407, 41
+  offset: 0, 0
+  index: -1
+glassShadow
+  rotate: true
+  xy: 1490, 311
+  size: 110, 140
+  orig: 110, 140
+  offset: 0, 0
+  index: -1
+ice1
+  rotate: false
+  xy: 1668, 388
+  size: 128, 115
+  orig: 128, 115
+  offset: 0, 0
+  index: -1
+ice2
+  rotate: false
+  xy: 1798, 408
+  size: 115, 95
+  orig: 115, 95
+  offset: 0, 0
+  index: -1
+legL
+  rotate: false
+  xy: 785, 105
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 1490, 423
+  size: 176, 80
+  orig: 176, 80
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1798, 394
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+lime
+  rotate: false
+  xy: 785, 167
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+lime2
+  rotate: false
+  xy: 1308, 323
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1008, 167
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+seed
+  rotate: false
+  xy: 852, 140
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+soda
+  rotate: false
+  xy: 411, 90
+  size: 372, 413
+  orig: 372, 413
+  offset: 0, 0
+  index: -1
+straw
+  rotate: true
+  xy: 1124, 392
+  size: 111, 182
+  orig: 111, 182
+  offset: 0, 0
+  index: -1
+ukiwa
+  rotate: false
+  xy: 785, 390
+  size: 337, 113
+  orig: 337, 113
+  offset: 0, 0
+  index: -1

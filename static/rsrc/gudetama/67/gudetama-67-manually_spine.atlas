@@ -1,0 +1,160 @@
+
+gudetama-67-manually_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+an
+  rotate: false
+  xy: 534, 348
+  size: 266, 254
+  orig: 266, 254
+  offset: 0, 0
+  index: -1
+cherry
+  rotate: false
+  xy: 1420, 610
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 2, 622
+  size: 532, 385
+  orig: 532, 385
+  offset: 0, 0
+  index: -1
+cup_front
+  rotate: false
+  xy: 2, 300
+  size: 530, 320
+  orig: 530, 320
+  offset: 0, 0
+  index: -1
+eda
+  rotate: false
+  xy: 368, 2
+  size: 158, 140
+  orig: 158, 140
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 802, 383
+  size: 219, 91
+  orig: 219, 91
+  offset: 0, 0
+  index: -1
+ice
+  rotate: false
+  xy: 2, 3
+  size: 364, 295
+  orig: 364, 295
+  offset: 0, 0
+  index: -1
+kimi
+  rotate: false
+  xy: 941, 685
+  size: 322, 322
+  orig: 322, 322
+  offset: 0, 0
+  index: -1
+kimi2
+  rotate: false
+  xy: 536, 604
+  size: 403, 403
+  orig: 403, 403
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 1047, 467
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+light_an
+  rotate: true
+  xy: 1561, 663
+  size: 86, 78
+  orig: 86, 78
+  offset: 0, 0
+  index: -1
+light_cherry
+  rotate: false
+  xy: 534, 316
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+light_mikan
+  rotate: false
+  xy: 1274, 542
+  size: 72, 55
+  orig: 72, 55
+  offset: 0, 0
+  index: -1
+mikan
+  rotate: true
+  xy: 1660, 793
+  size: 214, 282
+  orig: 214, 282
+  offset: 0, 0
+  index: -1
+ntdkk1
+  rotate: false
+  xy: 368, 144
+  size: 162, 154
+  orig: 162, 154
+  offset: 0, 0
+  index: -1
+ntdkk2
+  rotate: false
+  xy: 1274, 599
+  size: 144, 150
+  orig: 144, 150
+  offset: 0, 0
+  index: -1
+shadow_an
+  rotate: false
+  xy: 1944, 902
+  size: 98, 105
+  orig: 98, 105
+  offset: 0, 0
+  index: -1
+shadow_mikan
+  rotate: true
+  xy: 941, 559
+  size: 124, 179
+  orig: 124, 179
+  offset: 0, 0
+  index: -1
+syrup_top
+  rotate: false
+  xy: 1265, 829
+  size: 393, 178
+  orig: 393, 178
+  offset: 0, 0
+  index: -1
+syrup_under
+  rotate: false
+  xy: 1265, 751
+  size: 381, 76
+  orig: 381, 76
+  offset: 0, 0
+  index: -1
+tama1
+  rotate: false
+  xy: 895, 407
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+tama2
+  rotate: false
+  xy: 1122, 533
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
